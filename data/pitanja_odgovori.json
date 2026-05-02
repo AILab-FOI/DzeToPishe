@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "ukupno_pitanja": 31,
+    "izvor": "Ekstrahirano iz Word dokumenta pitanja_odgovori.docx",
+    "datum_ekstrakcije": "2026-02-19",
+    "struktura": {
+      "kompleksna_vise_dokumenata": {
+        "broj": 4,
+        "postotak": "12.9%",
+        "opis": "Pitanja koja pokrivaju više dokumenata"
+      },
+      "kompleksna_jedan_dokument": {
+        "broj": 4,
+        "postotak": "12.9%",
+        "opis": "Kompleksna pitanja unutar jednog dokumenta"
+      },
+      "jednostavna": {
+        "broj": 23,
+        "postotak": "74.2%",
+        "opis": "Jednostavnija pitanja"
+      }
+    }
+  },
+  "kompleksna_pitanja_vise_dokumenata": [
+    {
+      "id": 1,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Opišite cjelokupnu proceduru transformacije novaka u razvrstanog pričuvnika kroz sve pravne akte koji reguliraju taj proces.",
+      "odgovor": "Ustav RH propisuje vojnu obvezu kao dužnost svih sposobnih državljana, uz mogućnost prigovora savjesti iz vjerskih ili moralnih razloga, uz obvezu ispunjavanja drugih dužnosti određenih zakonom. Novačka obveza nastaje u kalendarskoj godini kad državljanin RH navršava 18 godina. Državljanin RH se uvodi u vojnu evidenciju i prolazi zdravstveni i psihološki pregled. Temeljno vojno osposobljavanje traje dva mjeseca. Plan upućivanja donosi ministar obrane do 15. prosinca za iduću godinu, a pojedinačna odluka 40 dana unaprijed. Ročnici se osposobljavaju za specijalnost 11A (strijelac) i polažu prisegu. Nakon TVO-a ročnik automatski postaje razvrstani pričuvnik s dodijeljenim ratnim rasporedom i vojnostručnom specijalnošću. Može biti pozvan na vježbe u maksimalnom trajanju od 90 dana godišnje. Prigovor savjesti podnosi se pisanim zahtjevom nadležnom tijelu. Odobrava se osobama čija vojna služba nije spojiva s vjerskim uvjerenjima ili moralnim načelima. Umjesto vojnog osposobljavanja, obveznik ispunjava civilnu obvezu u trajanju određenom zakonom.",
+      "izvori": [
+        "Ustav RH, čl. 47",
+        "Zakon o obrani, čl. 19, 20, 21, 21.m, 25, 27",
+        "Zakon o službi, čl. 25, 26, 30",
+        "Pravilnik o TVO, čl. 6, 7, 9, 10"
+      ]
+    },
+    {
+      "id": 2,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Hijerarhija odlučivanja o uporabi Oružanih snaga RH razlikuje šest situacija ovisno o razini ugroze. Ratno stanje — Predsjednik Republike naređuje uporabu i zapovijeda OS-om s punom ovlašću. Odgovoran je za obranu zemlje. Stanje neposredne ugroženosti — Predsjednik može narediti uporabu, ali odluka zahtijeva supotpis predsjednika Vlade. Prelazak granice — Sabor donosi odluku većinom svih zastupnika na prijedlog Vlade uz prethodnu suglasnost Predsjednika. Ako Predsjednik uskrati suglasnost, potrebna je dvotrećinska većina Sabora. Pomoć saveznicima — Sabor donosi odluku na prijedlog Vlade uz suglasnost Predsjednika. Vježbe i obuka — Vlada donosi odluku uz suglasnost Predsjednika. Za postrojbe do razine voda odluku donosi ministar obrane samostalno. Provedba — Načelnik Glavnog stožera ima ovlast punog zapovijedanja. Odgovoran je Predsjedniku za izvršavanje zapovijedi i naredbi, a ministru obrane za provedbu odluka.",
+      "izvori": [
+        "Ustav RH, čl. 7, 100",
+        "Zakon o obrani, čl. 46-51, 69, 70"
+      ]
+    },
+    {
+      "id": 3,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Objasnite sustav imenovanja i odgovornosti načelnika Glavnog stožera kroz sve relevantne propise.",
+      "odgovor": "Položaj načelnika Glavnog stožera OS RH reguliran je kroz pet razina. Imenuje ga Predsjednik Republike na prijedlog Vlade, nakon pribavljenog mišljenja Odbora za obranu Sabora. Mandat traje četiri godine bez mogućnosti ponovnog imenovanja. Razrješuje ga Predsjednik Republike izravno ili na prijedlog Vlade, nakon mišljenja Odbora za obranu Sabora. Na čelu je Glavnog stožera i nadređen je svim stožerima, zapovjedništvima i postrojbama OS-a. Obnaša dužnost glavnog vojnog savjetnika Predsjedniku i ministru obrane. Ima ovlast punog zapovijedanja u OS-u. Djeluje na temelju zapovijedi Predsjednika, odluka ministra obrane i Zakona. Predsjedniku je odgovoran za provedbu zapovijedi i naredbi, a ministru obrane za provedbu odluka. Obvezan je istodobno izvještavati oba o uporabi Oružanih snaga.",
+      "izvor": "Zakon o obrani, čl. 7, 15, 70"
+    },
+    {
+      "id": 4,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Vojna obveza i obrana RH dužnost je svih sposobnih državljana, uz mogućnost prigovora savjesti. Vojna obveza nastaje u godini navršenja 18 godina. Prestaje s 55 godina (M) odnosno 50 godina (Ž). Sastoji se od novačke obveze, TVO-a ili civilne službe te služenja u pričuvi. Služenje u ugovornoj pričuvi - nakon dragovoljnog vojnog osposobljavanja ili temeljnog vojnog osposobljavanje. Osposobljavanje pričuve traje do 90 dana godišnje. Radna obveza nameće se pravnim osobama i državljanima RH. Aktivira se u ratnom stanju i stanju neposredne ugroženosti. Radna pomoć se može uvesti u ratnom stanju i stanju neposredne ugroženosti radi izvršenja zadaća nositelja obrambenih funkcija. Materijalna obveza podrazumijeva ustupanje objekata i materijalnih sredstava za potrebe obrambenih zadaća i osposobljavanja.",
+      "izvori": [
+        "Ustav RH, čl. 47",
+        "Zakon o obrani, čl. 19, 20, 21, 27, 28, 31, 32, 33"
+      ]
+    }
+  ],
+  "kompleksna_pitanja_jeden_dokument": [
+    {
+      "id": 5,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Objasnite razlike između uporabe i korištenja Oružanih snaga prema Zakonu o obrani, uključujući tko donosi odluke u svakom slučaju.",
+      "odgovor": "Uporaba obuhvaća borbeno djelovanje. Odluke donose najviša tijela vlasti ovisno o situaciji: u ratnom stanju Predsjednik naređuje samostalno; u stanju neposredne ugroženosti Predsjednik uz supotpis predsjednika Vlade; za prelazak granice Sabor na prijedlog Vlade uz prethodnu suglasnost Predsjednika; za pomoć saveznicama i operacije u inozemstvu Sabor na prijedlog Vlade uz suglasnost Predsjednika. Korištenje obuhvaća neborbeno djelovanje unutar RH. Razina odlučivanja niža je i prilagođena vrsti zadaće: u katastrofama odlučuje Vlada; u velikim nesrećama, protupožarnoj zaštiti i traganju i spašavanju odlučuje ministar obrane; za pomoć policiji na granici odlučuje Vlada uz suglasnost Predsjednika.",
+      "izvor": "Zakon o obrani, čl. 46-64"
+    },
+    {
+      "id": 6,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Koja su prava i obveze ročnika tijekom temeljnog vojnog osposobljavanja prema Pravilniku o TVO?",
+      "odgovor": "Obveze ročnika — Življenje i rad u skladu s propisima o službi u OS-u, osposobljavanje za specijalnost 11A (strijelac), polaganje svečane prisege pred ministrom obrane te pridržavanje vojnih pravila i discipline. Financijska prava — Ročnik ostvaruje pravo na plaću ili naknadu prema Zakonu o službi te naknadu troškova prijevoza od mjesta prebivališta do mjesta osposobljavanja i natrag. Zdravstvena zaštita — Osigurano je osnovno i dopunsko zdravstveno osiguranje, osiguranje od ozljede na radu te osiguranje od nesretnog slučaja. Materijalna prava — Ročniku se osiguravaju smještaj, prehrana, vojna odora i sportska oprema. Priznanja — Najboljem ročniku naraštaja dodjeljuje se posebna značka. Uz to, ostvaruje pravo prednosti pri izboru mjesta službe u slučaju prijma u djelatnu vojnu službu.",
+      "izvor": "Pravilnik o TVO, čl. 9, 10, 11, 15, 16, 17, 18"
+    },
+    {
+      "id": 7,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Objasnite razlike između mirnodopskog i ratnog sastava Oružanih snaga prema Zakonu o službi.",
+      "odgovor": "Mirnodopski sastav — Čine ga djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu, ugovorni pričuvnici, kadeti te ročnici na TVO. Veličina je određena mirnodopskim ustrojem, a svrha redovno funkcioniranje OS-a. Ratni sastav — Obuhvaća sve kategorije mirnodopskog sastava uz dodatak mobiliziranih i razvrstanih pričuvnika, nerazvrstanih pričuvnika te drugih vojnih obveznika. Veličina je određena ratnim ustrojem. Svrha je borbeno djelovanje. Prijelaz između sastava — Provodi se mobilizacijom koju naređuje Predsjednik Republike u ratnom stanju ili stanju neposredne ugroženosti. Mobilizacija može biti opća ili djelomična, a njome OS prelaze iz mirnodopskog u ratno ustrojstvo.",
+      "izvor": "Zakon o službi, čl. 25"
+    },
+    {
+      "id": 8,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Objasnite postupak i uvjete za odgodu temeljnog vojnog osposobljavanja prema Zakonu o obrani.",
+      "odgovor": "Odgoda upućivanja na Temeljno vojno osposobljavanje regulirana je Zakonom o obrani i provedbenim propisima. Postupak — Zahtjev se podnosi područnom odjelu za poslove obrane u roku od 8 dana od primitka poziva, preporučenom poštom ili elektronički, uz priloženu dokumentaciju koja opravdava odgodu. Razlozi za odgodu — Školovanje: kandidat upisan na visoko učilište može podnijeti zahtjev svake akademske godine, najdulje do kraja godine u kojoj navršava 29 godina. Obiteljski razlozi: smrt člana uže obitelji ili situacija u kojoj bi upućivanje obitelj dovelo u težak položaj. Odlučivanje — Područni odjel donosi rješenje u upravnom postupku kojim se utvrđuje konkretan rok odgode. Protiv rješenja moguća je žalba i pokretanje upravnog spora.",
+      "izvor": "Zakon o obrani, čl. 21.i, 21.j, 21.k, 21.n, 35"
+    }
+  ],
+  "jednostavna_pitanja": [
+    {
+      "id": 9,
+      "kategorija": "jednostavno",
+      "pitanje": "Kada nastaje vojna obveza za državljane Republike Hrvatske?",
+      "odgovor": "Vojna obveza nastaje u kalendarskoj godini u kojoj državljanin Republike Hrvatske navršava 18 godina života.",
+      "izvor": "Zakon o obrani, Članak 19, stavak 2"
+    },
+    {
+      "id": 10,
+      "kategorija": "jednostavno",
+      "pitanje": "Koliko traje temeljno vojno osposobljavanje?",
+      "odgovor": "Temeljno vojno osposobljavanje traje dva mjeseca.",
+      "izvor": "Zakon o obrani, Članak 21.m, stavak 2"
+    },
+    {
+      "id": 11,
+      "kategorija": "jednostavno",
+      "pitanje": "Tko je vrhovni zapovjednik Oružanih snaga Republike Hrvatske?",
+      "odgovor": "Predsjednik Republike Hrvatske je vrhovni zapovjednik Oružanih snaga Republike Hrvatske.",
+      "izvor": "Ustav Republike Hrvatske, Članak 100"
+    },
+    {
+      "id": 12,
+      "kategorija": "jednostavno",
+      "pitanje": "Koje su tri grane Oružanih snaga Republike Hrvatske?",
+      "odgovor": "Tri grane Oružanih snaga Republike Hrvatske su: Hrvatska kopnena vojska, Hrvatska ratna mornarica i Hrvatsko ratno zrakoplovstvo.",
+      "izvor": "Zakon o obrani, Članak 41, stavak 3"
+    },
+    {
+      "id": 13,
+      "kategorija": "jednostavno",
+      "pitanje": "Kada prestaje vojna obveza za muškarce?",
+      "odgovor": "Vojna obveza za muškarce prestaje na kraju kalendarske godine u kojoj navršavaju 55 godina života.",
+      "izvor": "Zakon o obrani, Članak 20, stavak 1"
+    },
+    {
+      "id": 14,
+      "kategorija": "jednostavno",
+      "pitanje": "Tko imenuje načelnika Glavnog stožera Oružanih snaga?",
+      "odgovor": "Načelnika Glavnog stožera Oružanih snaga imenuje Predsjednik Republike Hrvatske na prijedlog Vlade Republike Hrvatske i nakon pribavljenog mišljenja Odbora za obranu Hrvatskoga sabora.",
+      "izvor": "Zakon o obrani, Članak 7, točka 8"
+    },
+    {
+      "id": 15,
+      "kategorija": "jednostavno",
+      "pitanje": "Koliko traje mandat načelnika Glavnog stožera?",
+      "odgovor": "Načelnik Glavnog stožera imenuje se na razdoblje od četiri godine i bez mogućnosti reizbora.",
+      "izvor": "Zakon o obrani, Članak 15, stavak 4"
+    },
+    {
+      "id": 16,
+      "kategorija": "jednostavno",
+      "pitanje": "Što je temeljna svrha obrane Republike Hrvatske?",
+      "odgovor": "Temeljna svrha obrane je očuvanje suvereniteta, neovisnosti i teritorijalne cjelovitosti Republike Hrvatske.",
+      "izvor": "Zakon o obrani, Članak 2, stavak 1"
+    },
+    {
+      "id": 17,
+      "kategorija": "jednostavno",
+      "pitanje": "Do koje dobi novak može biti upućen na temeljno vojno osposobljavanje?",
+      "odgovor": "Novak može biti upućen na temeljno vojno osposobljavanje do isteka 30 godina života.",
+      "izvor": "Zakon o obrani, Članak 21.lj, stavak 3"
+    },
+    {
+      "id": 18,
+      "kategorija": "jednostavno",
+      "pitanje": "Tko donosi odluku o mobilizaciji Oružanih snaga?",
+      "odgovor": "Odluku o mobilizaciji Oružanih snaga donosi Predsjednik Republike na prijedlog ministra obrane.",
+      "izvor": "Zakon o obrani, Članak 7, točka 6"
+    },
+    {
+      "id": 19,
+      "kategorija": "jednostavno",
+      "pitanje": "Kada prestaje vojna obveza za žene?",
+      "odgovor": "Vojna obveza za žene prestaje na kraju kalendarske godine u kojoj navršavaju 50 godina života.",
+      "izvor": "Zakon o obrani, Članak 20, stavak 1"
+    },
+    {
+      "id": 20,
+      "kategorija": "jednostavno",
+      "pitanje": "U kojoj godini života se državljanin RH uvodi u vojnu evidenciju?",
+      "odgovor": "Državljanin Republike Hrvatske uvodi se u vojnu evidenciju u kalendarskoj godini kada navrši 18 godina života.",
+      "izvor": "Zakon o obrani, Članak 21.b, stavak 1"
+    },
+    {
+      "id": 21,
+      "kategorija": "jednostavno",
+      "pitanje": "Tko proglašava ratno stanje u Republici Hrvatskoj?",
+      "odgovor": "Ratno stanje u Republici Hrvatskoj proglašava Hrvatski sabor.",
+      "izvor": "Zakon o obrani, Članak 5, stavak 1"
+    },
+    {
+      "id": 22,
+      "kategorija": "jednostavno",
+      "pitanje": "Koliko dana prije upućivanja ministar obrane donosi odluku o upućivanju kandidata na TVO?",
+      "odgovor": "Ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje u pravilu 40 dana prije upućivanja kandidata.",
+      "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, Članak 7, stavak 2"
+    },
+    {
+      "id": 23,
+      "kategorija": "jednostavno",
+      "pitanje": "Tko donosi program obuke ročnika na temeljnom vojnom osposobljavanju?",
+      "odgovor": "Program obuke ročnika na temeljnom vojnom osposobljavanju donosi načelnik Glavnog stožera Oružanih snaga Republike Hrvatske.",
+      "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, Članak 9, stavak 2"
+    },
+    {
+      "id": 24,
+      "kategorija": "jednostavno",
+      "pitanje": "Pred kim ročnici daju svečanu prisegu?",
+      "odgovor": "Ročnici daju svečanu prisegu pred ministrom obrane ili osobom koju on za to odredi.",
+      "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, Članak 10, stavak 1"
+    },
+    {
+      "id": 25,
+      "kategorija": "jednostavno",
+      "pitanje": "Za koju vojnostručnu specijalnost se ročnici osposobljavaju na TVO?",
+      "odgovor": "Ročnici se osposobljavaju u temeljnim vojnim znanjima i sposobnostima u rodu pješaštva za streljačku specijalnost 11A, dužnost strijelca.",
+      "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, Članak 9, stavak 1"
+    },
+    {
+      "id": 26,
+      "kategorija": "jednostavno",
+      "pitanje": "Što čini mirnodopski sastav Oružanih snaga?",
+      "odgovor": "Mirnodopski sastav Oružanih snaga čine: djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu u Oružane snage, ugovorni pričuvnici, kadeti te ročnici koji su pristupili temeljnom vojnom osposobljavanju.",
+      "izvor": "Zakon o službi u Oružanim snagama RH, Članak 25, stavak 2"
+    },
+    {
+      "id": 27,
+      "kategorija": "jednostavno",
+      "pitanje": "Tko utvrđuje mirnodopski i ratni ustroj Oružanih snaga?",
+      "odgovor": "Predsjednik Republike utvrđuje mirnodopski i ratni ustroj Oružanih snaga te strukturu činova u mirnodopskom i ratnom ustroju Oružanih snaga.",
+      "izvor": "Zakon o službi u Oružanim snagama RH, Članak 25, stavak 4"
+    },
+    {
+      "id": 28,
+      "kategorija": "jednostavno",
+      "pitanje": "Koliko traje minimalno godišnji odmor djelatne vojne osobe?",
+      "odgovor": "Djelatna vojna osoba ima pravo na godišnji odmor u trajanju od najmanje četiri tjedna.",
+      "izvor": "Zakon o službi u Oružanim snagama RH, Članak 156, stavak 1"
+    },
+    {
+      "id": 29,
+      "kategorija": "jednostavno",
+      "pitanje": "Koliko dana plaćenog dopusta pripada djelatnoj vojnoj osobi u slučaju rođenja djeteta?",
+      "odgovor": "Djelatna vojna osoba ima pravo na plaćeni dopust od sedam radnih dana u slučaju rođenja djeteta.",
+      "izvor": "Zakon o službi u Oružanim snagama RH, Članak 159, stavak 1"
+    },
+    {
+      "id": 30,
+      "kategorija": "jednostavno",
+      "pitanje": "Koliko dana plaćenog dopusta pripada djelatnoj vojnoj osobi u slučaju zaključenja braka?",
+      "odgovor": "Djelatna vojna osoba ima pravo na plaćeni dopust od sedam radnih dana u slučaju zaključenja braka.",
+      "izvor": "Zakon o službi u Oružanim snagama RH, Članak 159, stavak 1"
+    },
+    {
+      "id": 31,
+      "kategorija": "jednostavno",
+      "pitanje": "Što je vojna iskaznica i tko ju izdaje?",
+      "odgovor": "Vojna iskaznica je javna isprava kojom vojni obveznik dokazuje identitet dok izvršava vojnu obvezu. Izdaje ju nadležni područni odjel za poslove obrane koji vojnog obveznika vodi u evidenciji.",
+      "izvor": "Zakon o obrani, Članak 25.l, stavci 1 i 3"
+    }
+  ],
+  "napomena": "Dataset ekstrairan iz Word dokumenta. Kategorije određene prema ID broju: 1-4 kompleksna više dokumenata, 5-8 kompleksna jedan dokument, 9+ jednostavna."
+}
