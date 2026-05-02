@@ -81,7 +81,7 @@ JSON datoteka sadrži pitanja u tri kategorije:
 
 ## Pokretanje
 
-Notebooci su namijenjeni pokretanju u **Google Colabu**. Potrebno je:
+Notebook su namijenjeni pokretanju u **Google Colabu**. Potrebno je:
 
 1. Pohraniti repozitorij na Google Drive
 2. Otvoriti `diplomskiRad_euroLLM.ipynb` u Colabu
