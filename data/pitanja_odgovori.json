@@ -26,18 +26,19 @@
       "id": 1,
       "kategorija": "kompleksno_vise_dokumenata",
       "pitanje": "Opišite cjelokupnu proceduru transformacije novaka u razvrstanog pričuvnika kroz sve pravne akte koji reguliraju taj proces.",
-      "odgovor": "Ustav RH propisuje vojnu obvezu kao dužnost svih sposobnih državljana, uz mogućnost prigovora savjesti iz vjerskih ili moralnih razloga, uz obvezu ispunjavanja drugih dužnosti određenih zakonom. Novačka obveza nastaje u kalendarskoj godini kad državljanin RH navršava 18 godina. Državljanin RH se uvodi u vojnu evidenciju i prolazi zdravstveni i psihološki pregled. Temeljno vojno osposobljavanje traje dva mjeseca. Plan upućivanja donosi ministar obrane do 15. prosinca za iduću godinu, a pojedinačna odluka 40 dana unaprijed. Ročnici se osposobljavaju za specijalnost 11A (strijelac) i polažu prisegu. Nakon TVO-a ročnik automatski postaje razvrstani pričuvnik s dodijeljenim ratnim rasporedom i vojnostručnom specijalnošću. Može biti pozvan na vježbe u maksimalnom trajanju od 90 dana godišnje. Prigovor savjesti podnosi se pisanim zahtjevom nadležnom tijelu. Odobrava se osobama čija vojna služba nije spojiva s vjerskim uvjerenjima ili moralnim načelima. Umjesto vojnog osposobljavanja, obveznik ispunjava civilnu obvezu u trajanju određenom zakonom.",
+      "odgovor": "Ustav RH propisuje vojnu obvezu kao dužnost svih sposobnih državljana, uz mogućnost prigovora savjesti iz vjerskih ili moralnih razloga, uz obvezu ispunjavanja drugih dužnosti određenih zakonom. Novačka obveza nastaje u kalendarskoj godini kad državljanin RH navršava 18 godina. Državljanin RH se uvodi u vojnu evidenciju i prolazi zdravstveni i psihološki pregled. Temeljno vojno osposobljavanje traje dva mjeseca. Plan upućivanja donosi ministar obrane do 15. prosinca za iduću godinu, a pojedinačna odluka 40 dana unaprijed. Ročnici se osposobljavaju za specijalnost 11A (strijelac) i polažu prisegu. Nakon temeljnog vojnog osposobljavanja ročnik automatski postaje razvrstani pričuvnik s dodijeljenim ratnim rasporedom i vojnostručnom specijalnošću. Može biti pozvan na vježbe u maksimalnom trajanju od 90 dana godišnje. Prigovor savjesti podnosi se pisanim zahtjevom nadležnom tijelu. Odobrava se osobama čija vojna služba nije spojiva s vjerskim uvjerenjima ili moralnim načelima. Umjesto vojnog osposobljavanja, obveznik ispunjava civilnu obvezu u trajanju određenom zakonom.",
       "izvori": [
         "Ustav RH, čl. 47",
         "Zakon o obrani, čl. 19, 20, 21, 21.m, 25, 27",
         "Zakon o službi, čl. 25, 26, 30",
-        "Pravilnik o TVO, čl. 6, 7, 9, 10"
+        "Pravilnik o temeljnom vojnom osposobljavanju, čl. 6, 7, 9, 10"
       ]
     },
     {
       "id": 2,
       "kategorija": "kompleksno_vise_dokumenata",
-      "pitanje": "Hijerarhija odlučivanja o uporabi Oružanih snaga RH razlikuje šest situacija ovisno o razini ugroze. Ratno stanje — Predsjednik Republike naređuje uporabu i zapovijeda OS-om s punom ovlašću. Odgovoran je za obranu zemlje. Stanje neposredne ugroženosti — Predsjednik može narediti uporabu, ali odluka zahtijeva supotpis predsjednika Vlade. Prelazak granice — Sabor donosi odluku većinom svih zastupnika na prijedlog Vlade uz prethodnu suglasnost Predsjednika. Ako Predsjednik uskrati suglasnost, potrebna je dvotrećinska većina Sabora. Pomoć saveznicima — Sabor donosi odluku na prijedlog Vlade uz suglasnost Predsjednika. Vježbe i obuka — Vlada donosi odluku uz suglasnost Predsjednika. Za postrojbe do razine voda odluku donosi ministar obrane samostalno. Provedba — Načelnik Glavnog stožera ima ovlast punog zapovijedanja. Odgovoran je Predsjedniku za izvršavanje zapovijedi i naredbi, a ministru obrane za provedbu odluka.",
+      "pitanje": "Kako je regulirana hijerarhija odlučivanja o uporabi Oružanih snaga u različitim situacijama kroz Ustav i Zakon o obrani?",
+      "odgovor": "Hijerarhija odlučivanja o uporabi Oružanih snaga RH razlikuje šest situacija ovisno o razini ugroze. Ratno stanje — Predsjednik Republike naređuje uporabu i zapovijeda OS-om s punom ovlašću. Odgovoran je za obranu zemlje. Stanje neposredne ugroženosti — Predsjednik može narediti uporabu, ali odluka zahtijeva supotpis predsjednika Vlade. Prelazak granice — Sabor donosi odluku većinom svih zastupnika na prijedlog Vlade uz prethodnu suglasnost Predsjednika. Ako Predsjednik uskrati suglasnost, potrebna je dvotrećinska većina Sabora. Pomoć saveznicima — Sabor donosi odluku na prijedlog Vlade uz suglasnost Predsjednika. Vježbe i obuka — Vlada donosi odluku uz suglasnost Predsjednika. Za postrojbe do razine voda odluku donosi ministar obrane samostalno. Provedba — Načelnik Glavnog stožera ima ovlast punog zapovijedanja. Odgovoran je Predsjedniku za izvršavanje zapovijedi i naredbi, a ministru obrane za provedbu odluka.",
       "izvori": [
         "Ustav RH, čl. 7, 100",
         "Zakon o obrani, čl. 46-51, 69, 70"
@@ -53,7 +54,8 @@
     {
       "id": 4,
       "kategorija": "kompleksno_vise_dokumenata",
-      "pitanje": "Vojna obveza i obrana RH dužnost je svih sposobnih državljana, uz mogućnost prigovora savjesti. Vojna obveza nastaje u godini navršenja 18 godina. Prestaje s 55 godina (M) odnosno 50 godina (Ž). Sastoji se od novačke obveze, TVO-a ili civilne službe te služenja u pričuvi. Služenje u ugovornoj pričuvi - nakon dragovoljnog vojnog osposobljavanja ili temeljnog vojnog osposobljavanje. Osposobljavanje pričuve traje do 90 dana godišnje. Radna obveza nameće se pravnim osobama i državljanima RH. Aktivira se u ratnom stanju i stanju neposredne ugroženosti. Radna pomoć se može uvesti u ratnom stanju i stanju neposredne ugroženosti radi izvršenja zadaća nositelja obrambenih funkcija. Materijalna obveza podrazumijeva ustupanje objekata i materijalnih sredstava za potrebe obrambenih zadaća i osposobljavanja.",
+      "pitanje": "Objasnite sve oblike obveza državljana u obrani prema Zakonu o obrani i Ustavu.",
+      "odgovor": "Vojna obveza i obrana RH dužnost je svih sposobnih državljana, uz mogućnost prigovora savjesti. Vojna obveza nastaje u godini navršenja 18 godina. Prestaje s 55 godina za muškarce odnosno 50 godina za žene. Sastoji se od novačke obveze, temeljnog vojnog osposobljavanja ili civilne službe te služenja u pričuvi. Služenje u ugovornoj pričuvi - nakon dragovoljnog vojnog osposobljavanja ili temeljnog vojnog osposobljavanje. Osposobljavanje pričuve traje do 90 dana godišnje. Radna obveza nameće se pravnim osobama i državljanima RH. Aktivira se u ratnom stanju i stanju neposredne ugroženosti. Radna pomoć se može uvesti u ratnom stanju i stanju neposredne ugroženosti radi izvršenja zadaća nositelja obrambenih funkcija. Materijalna obveza podrazumijeva ustupanje objekata i materijalnih sredstava za potrebe obrambenih zadaća i osposobljavanja.",
       "izvori": [
         "Ustav RH, čl. 47",
         "Zakon o obrani, čl. 19, 20, 21, 27, 28, 31, 32, 33"
@@ -71,15 +73,15 @@
     {
       "id": 6,
       "kategorija": "kompleksno_jedan_dokument",
-      "pitanje": "Koja su prava i obveze ročnika tijekom temeljnog vojnog osposobljavanja prema Pravilniku o TVO?",
+      "pitanje": "Koja su prava i obveze ročnika tijekom temeljnog vojnog osposobljavanja prema Pravilniku o temeljnom vojnom osposobljavanju?",
       "odgovor": "Obveze ročnika — Življenje i rad u skladu s propisima o službi u OS-u, osposobljavanje za specijalnost 11A (strijelac), polaganje svečane prisege pred ministrom obrane te pridržavanje vojnih pravila i discipline. Financijska prava — Ročnik ostvaruje pravo na plaću ili naknadu prema Zakonu o službi te naknadu troškova prijevoza od mjesta prebivališta do mjesta osposobljavanja i natrag. Zdravstvena zaštita — Osigurano je osnovno i dopunsko zdravstveno osiguranje, osiguranje od ozljede na radu te osiguranje od nesretnog slučaja. Materijalna prava — Ročniku se osiguravaju smještaj, prehrana, vojna odora i sportska oprema. Priznanja — Najboljem ročniku naraštaja dodjeljuje se posebna značka. Uz to, ostvaruje pravo prednosti pri izboru mjesta službe u slučaju prijma u djelatnu vojnu službu.",
-      "izvor": "Pravilnik o TVO, čl. 9, 10, 11, 15, 16, 17, 18"
+      "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, čl. 9, 10, 11, 15, 16, 17, 18"
     },
     {
       "id": 7,
       "kategorija": "kompleksno_jedan_dokument",
       "pitanje": "Objasnite razlike između mirnodopskog i ratnog sastava Oružanih snaga prema Zakonu o službi.",
-      "odgovor": "Mirnodopski sastav — Čine ga djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu, ugovorni pričuvnici, kadeti te ročnici na TVO. Veličina je određena mirnodopskim ustrojem, a svrha redovno funkcioniranje OS-a. Ratni sastav — Obuhvaća sve kategorije mirnodopskog sastava uz dodatak mobiliziranih i razvrstanih pričuvnika, nerazvrstanih pričuvnika te drugih vojnih obveznika. Veličina je određena ratnim ustrojem. Svrha je borbeno djelovanje. Prijelaz između sastava — Provodi se mobilizacijom koju naređuje Predsjednik Republike u ratnom stanju ili stanju neposredne ugroženosti. Mobilizacija može biti opća ili djelomična, a njome OS prelaze iz mirnodopskog u ratno ustrojstvo.",
+      "odgovor": "Mirnodopski sastav — Čine ga djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu, ugovorni pričuvnici, kadeti te ročnici na temeljnom vojnom osposobljavanju. Veličina je određena mirnodopskim ustrojem, a svrha redovno funkcioniranje OS-a. Ratni sastav — Obuhvaća sve kategorije mirnodopskog sastava uz dodatak mobiliziranih i razvrstanih pričuvnika, nerazvrstanih pričuvnika te drugih vojnih obveznika. Veličina je određena ratnim ustrojem. Svrha je borbeno djelovanje. Prijelaz između sastava — Provodi se mobilizacijom koju naređuje Predsjednik Republike u ratnom stanju ili stanju neposredne ugroženosti. Mobilizacija može biti opća ili djelomična, a njome OS prelaze iz mirnodopskog u ratno ustrojstvo.",
       "izvor": "Zakon o službi, čl. 25"
     },
     {
@@ -185,7 +187,7 @@
     {
       "id": 22,
       "kategorija": "jednostavno",
-      "pitanje": "Koliko dana prije upućivanja ministar obrane donosi odluku o upućivanju kandidata na TVO?",
+      "pitanje": "Koliko dana prije upućivanja ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje?",
       "odgovor": "Ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje u pravilu 40 dana prije upućivanja kandidata.",
       "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, Članak 7, stavak 2"
     },
@@ -206,7 +208,7 @@
     {
       "id": 25,
       "kategorija": "jednostavno",
-      "pitanje": "Za koju vojnostručnu specijalnost se ročnici osposobljavaju na TVO?",
+      "pitanje": "Za koju vojnostručnu specijalnost se ročnici osposobljavaju na temeljnom vojnom osposobljavanju?",
       "odgovor": "Ročnici se osposobljavaju u temeljnim vojnim znanjima i sposobnostima u rodu pješaštva za streljačku specijalnost 11A, dužnost strijelca.",
       "izvor": "Pravilnik o temeljnom vojnom osposobljavanju, Članak 9, stavak 1"
     },
