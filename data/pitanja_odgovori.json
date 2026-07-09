@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "ukupno_pitanja": 31,
+    "ukupno_pitanja": 43,
     "izvor": "Ekstrahirano iz Word dokumenta pitanja_odgovori.docx",
     "datum_ekstrakcije": "2026-02-19",
     "struktura": {
       "kompleksna_vise_dokumenata": {
-        "broj": 4,
+        "broj": 12,
         "postotak": "12.9%",
         "opis": "Pitanja koja pokrivaju više dokumenata"
       },
       "kompleksna_jedan_dokument": {
-        "broj": 4,
+        "broj": 8,
         "postotak": "12.9%",
         "opis": "Kompleksna pitanja unutar jednog dokumenta"
       },
@@ -19,7 +19,8 @@
         "postotak": "74.2%",
         "opis": "Jednostavnija pitanja"
       }
-    }
+    },
+    "napomena_dopuna": "Dodano 8 kompleksnih pitanja (id 32-43): 8 vise-dokumenata i 4 jedan-dokument. Postojeca pitanja (id 1-31) nisu mijenjana."
   },
   "kompleksna_pitanja_vise_dokumenata": [
     {
@@ -27,22 +28,14 @@
       "kategorija": "kompleksno_vise_dokumenata",
       "pitanje": "Opišite cjelokupnu proceduru transformacije novaka u razvrstanog pričuvnika kroz sve pravne akte koji reguliraju taj proces.",
       "odgovor": "Ustav RH propisuje vojnu obvezu kao dužnost svih sposobnih državljana, uz mogućnost prigovora savjesti iz vjerskih ili moralnih razloga, uz obvezu ispunjavanja drugih dužnosti određenih zakonom. Novačka obveza nastaje u kalendarskoj godini kad državljanin RH navršava 18 godina. Državljanin RH se uvodi u vojnu evidenciju i prolazi zdravstveni i psihološki pregled. Temeljno vojno osposobljavanje traje dva mjeseca. Plan upućivanja donosi ministar obrane do 15. prosinca za iduću godinu, a pojedinačna odluka 40 dana unaprijed. Ročnici se osposobljavaju za specijalnost 11A (strijelac) i polažu prisegu. Nakon temeljnog vojnog osposobljavanja ročnik automatski postaje razvrstani pričuvnik s dodijeljenim ratnim rasporedom i vojnostručnom specijalnošću. Može biti pozvan na vježbe u maksimalnom trajanju od 90 dana godišnje. Prigovor savjesti podnosi se pisanim zahtjevom nadležnom tijelu. Odobrava se osobama čija vojna služba nije spojiva s vjerskim uvjerenjima ili moralnim načelima. Umjesto vojnog osposobljavanja, obveznik ispunjava civilnu obvezu u trajanju određenom zakonom.",
-      "izvori": [
-        "Ustav RH, čl. 47",
-        "Zakon o obrani, čl. 19, 20, 21, 21.m, 25, 27",
-        "Zakon o službi, čl. 25, 26, 30",
-        "Pravilnik o temeljnom vojnom osposobljavanju, čl. 6, 7, 9, 10"
-      ]
+      "izvori": "Ustav RH (vojna obveza, prigovor savjesti); Zakon o obrani 2025 (vojna obveza, vojna evidencija); Pravilnik o temeljnom vojnom osposobljavanju (NN 155/2025), cl. 9, 10, 11; Zakon o sluzbi u OSRH 2025 (razvrstavanje u pricuvu, ratni raspored)"
     },
     {
       "id": 2,
       "kategorija": "kompleksno_vise_dokumenata",
       "pitanje": "Kako je regulirana hijerarhija odlučivanja o uporabi Oružanih snaga u različitim situacijama kroz Ustav i Zakon o obrani?",
       "odgovor": "Hijerarhija odlučivanja o uporabi Oružanih snaga RH razlikuje šest situacija ovisno o razini ugroze. Ratno stanje — Predsjednik Republike naređuje uporabu i zapovijeda OS-om s punom ovlašću. Odgovoran je za obranu zemlje. Stanje neposredne ugroženosti — Predsjednik može narediti uporabu, ali odluka zahtijeva supotpis predsjednika Vlade. Prelazak granice — Sabor donosi odluku većinom svih zastupnika na prijedlog Vlade uz prethodnu suglasnost Predsjednika. Ako Predsjednik uskrati suglasnost, potrebna je dvotrećinska većina Sabora. Pomoć saveznicima — Sabor donosi odluku na prijedlog Vlade uz suglasnost Predsjednika. Vježbe i obuka — Vlada donosi odluku uz suglasnost Predsjednika. Za postrojbe do razine voda odluku donosi ministar obrane samostalno. Provedba — Načelnik Glavnog stožera ima ovlast punog zapovijedanja. Odgovoran je Predsjedniku za izvršavanje zapovijedi i naredbi, a ministru obrane za provedbu odluka.",
-      "izvori": [
-        "Ustav RH, čl. 7, 100",
-        "Zakon o obrani, čl. 46-51, 69, 70"
-      ]
+      "izvori": "Ustav RH (vrhovni zapovjednik OS); Zakon o obrani 2025 (uporaba OS - ratno stanje, neposredna ugrozenost, prelazak granice, pomoc saveznicima, vjezbe)"
     },
     {
       "id": 3,
@@ -56,10 +49,63 @@
       "kategorija": "kompleksno_vise_dokumenata",
       "pitanje": "Objasnite sve oblike obveza državljana u obrani prema Zakonu o obrani i Ustavu.",
       "odgovor": "Vojna obveza i obrana RH dužnost je svih sposobnih državljana, uz mogućnost prigovora savjesti. Vojna obveza nastaje u godini navršenja 18 godina. Prestaje s 55 godina za muškarce odnosno 50 godina za žene. Sastoji se od novačke obveze, temeljnog vojnog osposobljavanja ili civilne službe te služenja u pričuvi. Služenje u ugovornoj pričuvi - nakon dragovoljnog vojnog osposobljavanja ili temeljnog vojnog osposobljavanje. Osposobljavanje pričuve traje do 90 dana godišnje. Radna obveza nameće se pravnim osobama i državljanima RH. Aktivira se u ratnom stanju i stanju neposredne ugroženosti. Radna pomoć se može uvesti u ratnom stanju i stanju neposredne ugroženosti radi izvršenja zadaća nositelja obrambenih funkcija. Materijalna obveza podrazumijeva ustupanje objekata i materijalnih sredstava za potrebe obrambenih zadaća i osposobljavanja.",
-      "izvori": [
-        "Ustav RH, čl. 47",
-        "Zakon o obrani, čl. 19, 20, 21, 27, 28, 31, 32, 33"
-      ]
+      "izvori": "Ustav RH (obrana kao duznost drzavljana); Zakon o obrani 2025 (vojna, radna i materijalna obveza, civilna zastita)"
+    },
+    {
+      "id": 32,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Kako se povezuju prigovor savjesti iz Ustava, civilna sluzba i sustav vojne obveze kroz Ustav i Zakon o obrani, i koje su posljedice odabira civilne sluzbe za status osobe?",
+      "odgovor": "Ustav RH jamci pravo na prigovor savjesti svima koji zbog vjerskih ili moralnih nazora nisu pripravni sudjelovati u obavljanju vojnih duznosti, uz obvezu ispunjavanja drugih duznosti odredenih zakonom. Zakon o obrani tu ustavnu odredbu razraduje kroz institut vojne obveze koja nastaje u godini punoljetnosti, te propisuje da osoba s odobrenim prigovorom savjesti umjesto vojne obveze ispunjava civilnu obvezu. Posljedica je da takva osoba ne ulazi u rocnicki/pricuvni put kroz temeljno vojno osposobljavanje, nego se njezina obrambena duznost ostvaruje u nevojnom obliku, cime se ustavno nacelo (sloboda savjesti) i zakonska obveza (doprinos obrani) uskladuju.",
+      "izvori": "Ustav RH (vojna obveza i prigovor savjesti); Zakon o obrani 2025 (vojna obveza i civilna sluzba)"
+    },
+    {
+      "id": 33,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Objasnite cijeli put zdravstvene i psiholoske procjene novaka - od poziva do upisa u evidenciju - povezujuci Zakon o obrani s Pravilnikom o temeljnom vojnom osposobljavanju.",
+      "odgovor": "Zakon o obrani uspostavlja vojnu evidenciju i ovlast Ministarstva obrane da poziva obveznike, a detaljnu provedbu propisuje Pravilnik o temeljnom vojnom osposobljavanju. Po Pravilniku nadlezni podrucni odjel za poslove obrane poziva kandidata na zdravstveni pregled i psihologijsko ispitivanje, upoznaje ga s pravima i obvezama, izdaje uputnicu te osigurava prijevoz ili naknadu troskova. Kandidat se mora odazvati; u slucaju sprijecenosti duzan je u roku od tri dana obavijestiti odjel, koji odreduje novi termin. Nakon osposobljavanja nadlezna ustrojstvena jedinica u evidenciju, vojnu iskaznicu i informacijski sustav upisuje datume pocetka i zavrsetka osposobljavanja, vojnostrucnu specijalnost i datum prisege.",
+      "izvori": "Zakon o obrani 2025 (vojna evidencija); Pravilnik o temeljnom vojnom osposobljavanju (NN 155/2025), cl. 4, 5, 11"
+    },
+    {
+      "id": 34,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Kako se nadleznost za donosenje programa obuke i provedbu svecane prisege rasporeduje izmedu ministra obrane, nacelnika Glavnog stozera i ustrojstvenih jedinica, prema Zakonu o obrani i Pravilniku o TVO?",
+      "odgovor": "Plan upucivanja kandidata donosi ministar obrane (do 15. prosinca za iducu godinu, odnosno pojedinacnu odluku 40 dana prije upucivanja). Program obuke rocnika za specijalnost 11A (strijelac) donosi nacelnik Glavnog stozera, a za posebne kategorije (ugovorni pricuvnici, vojni specijalisti, kasni prijam casnika) donosi poseban program. Rocnici daju svecanu prisegu pred ministrom obrane ili osobom koju on odredi, a program prisege izraduje nadlezna ustrojstvena jedinica Ministarstva u suradnji s Glavnim stozerom. Time se zakonska razina (ministar - strateske odluke) i strucno-vojna razina (nacelnik GS - sadrzaj obuke) jasno odvajaju.",
+      "izvori": "Pravilnik o temeljnom vojnom osposobljavanju (NN 155/2025), cl. 7, 9, 10; Zakon o obrani 2025 (ovlasti ministra i nacelnika GS)"
+    },
+    {
+      "id": 35,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Povezite ustavnu ulogu Predsjednika kao vrhovnog zapovjednika s lancem zapovijedanja i odgovornosti nacelnika Glavnog stozera prema Zakonu o obrani i Zakonu o sluzbi u OSRH.",
+      "odgovor": "Ustav odreduje Predsjednika RH kao vrhovnog zapovjednika Oruzanih snaga. Zakon o obrani tu ulogu operacionalizira: Predsjednik nareduje uporabu OS u ratnom stanju i odgovoran je za obranu, dok se u nizim razinama ugroze odluke dijele s Vladom i Saborom. Nacelnik Glavnog stozera ima ovlast punog zapovijedanja u provedbi, pri cemu je za izvrsavanje zapovijedi i naredbi odgovoran Predsjedniku, a ministru obrane za provedbu odluka iz njegove nadleznosti. Zakon o sluzbi dodatno ureduje status i imenovanje nacelnika unutar vojne hijerarhije. Tako se ustavno nacelo civilnog vrhovnog zapovjednistva provodi kroz dvostruku liniju odgovornosti nacelnika GS.",
+      "izvori": "Ustav RH (vrhovni zapovjednik); Zakon o obrani 2025 (uporaba OS i nacelnik GS); Zakon o sluzbi u OSRH 2025 (imenovanje nacelnika GS)"
+    },
+    {
+      "id": 36,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Usporedite kako se pripravnost, stanje neposredne ugrozenosti i ratno stanje odrazavaju na svakodnevni rezim u postrojbi (izlasci, osiguranje objekata, uzbuna) povezujuci Zakon o obrani s Pravilnikom o sluzbi u OSRH.",
+      "odgovor": "Zakon o obrani definira stupnjeve ugroze i tijela koja ih proglasavaju, a Pravilnik o sluzbi razraduje njihove operativne posljedice. Pri pripravnosti, stanju neposredne ugrozenosti ili ratnom stanju osiguranje objekata se pojacava (vise osoba, tehnicka i inzenjerijska sredstva), redoviti i izvanredni izlasci vojnih osoba ogranicavaju se ili obustavljaju, a privatna putovanja se obustavljaju kada je zapovjedena pripravnost. Uzbuna (borbena, mobilizacijska, zbog nesreca, radi provjere) dovodi postrojbu na trazeni stupanj spremnosti prikupljanjem na mjestima za uzbunu. Tako se pravni okvir (Zakon) preslikava u konkretne dnevne duznosti (Pravilnik).",
+      "izvori": "Zakon o obrani 2025 (stupnjevi ugroze); Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 9, 28, 30, 58-60"
+    },
+    {
+      "id": 37,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Objasnite cijeli zivotni ciklus ugovornog odnosa vojnika/mornara - od prijma do rasporeda na ustrojbeno mjesto - povezujuci ustavnu osnovu vojne sluzbe sa Zakonom o sluzbi u OSRH.",
+      "odgovor": "Ustav RH postavlja vojnu obvezu i sudjelovanje u obrani kao duznost drzavljana, a Zakon o sluzbi tu osnovu razraduje u konkretan ugovorni put. Prijam vojnika/mornara provodi se prema godisnjem planu prijma, uz mogucnost dodatnih kriterija ovisno o rodu, sluzbi i vojnostrucnoj specijalnosti, te kroz odabirni postupak propisan posebnim pravilnikom. Odnos se zasniva ugovorom o vojnickoj sluzbi. Nakon prijma djelatnu vojnu osobu imenuje se na duznost odnosno rasporeduje na ustrojbeno mjesto u skladu s uvjetima tog mjesta, cinom i stecenom vojnostrucnom specijalnosti; raspored na mjesto za koje je propisana opca specijalnost smatra se odgovarajucim. Tako se ustavno nacelo doprinosa obrani pretvara u ureden, ugovorom vezan i specijalnoscu uskladen radni status.",
+      "izvori": "Ustav RH (vojna obveza / duznost obrane); Zakon o sluzbi u OSRH 2025, cl. 33, 34, 36, 50"
+    },
+    {
+      "id": 38,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Kako se prava rocnika tijekom temeljnog vojnog osposobljavanja (placa, osiguranje, prijevoz) povezuju s opcim rezimom sluzbe - objasnite kroz Pravilnik o TVO, Zakon o sluzbi i Pravilnik o sluzbi u OSRH.",
+      "odgovor": "Pravilnik o TVO utvrduje da rocnik za vrijeme osposobljavanja ostvaruje pravo na placu odnosno naknadu u iznosu odredenom zakonom kojim se ureduje sluzba (dakle upucuje na Zakon o sluzbi), naknadu troskova javnog prijevoza, osnovno i dopunsko zdravstveno osiguranje, osiguranje od nesretnog slucaja i ozljede na radu, smjestaj, prehranu te odoru i sportsku opremu. Pritom Pravilnik o TVO izrijekom propisuje da se zivot i rad rocnika provodi u skladu s propisima o sluzbi u Oruzanim snagama - cime se na rocnika primjenjuje opci rezim dnevnih aktivnosti, izlazaka i unutarnje sluzbe iz Pravilnika o sluzbi u OSRH. Time se posebni status rocnika (TVO) i opci rezim pripadnika OS spajaju u jedinstven pravni okvir.",
+      "izvori": "Pravilnik o temeljnom vojnom osposobljavanju (NN 155/2025), cl. 16, 18; Zakon o sluzbi u OSRH 2025 (odredivanje place/naknade); Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 3, 8, 28, 29"
+    },
+    {
+      "id": 39,
+      "kategorija": "kompleksno_vise_dokumenata",
+      "pitanje": "Objasnite kako su sloboda vjeroispovijedi i rad dusobriznika uredeni od ustavne razine do svakodnevne provedbe u postrojbi, povezujuci Ustav, Pravilnik o sluzbi u OSRH i raspored dnevnih aktivnosti.",
+      "odgovor": "Ustav RH jamci slobodu savjesti i vjeroispovijedi te slobodno javno ocitovanje vjere. Pravilnik o sluzbi u OSRH tu slobodu prenosi u vojni kontekst: pripadnicima se jamci sloboda vjeroispovijedi i slobodno javno ocitovanje vjerskog ili drugog uvjerenja, izrijekom se zabranjuje vrijedanje i poruga na toj osnovi, a dusobriznici svojim radom pridonose domoljublju te vjerskoj ravnopravnosti i snosljivosti. Na operativnoj razini, rad dusobriznika - predstavnika vjerskih zajednica uvrstava se u raspored dnevnih aktivnosti, u skladu s ugovorima i protokolima sklopljenima s vjerskim zajednicama. Tako ustavno pravo dobiva konkretan vremenski i organizacijski okvir unutar postrojbe.",
+      "izvori": "Ustav RH (sloboda savjesti i vjeroispovijedi); Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 2 st. 4, cl. 34"
     }
   ],
   "kompleksna_pitanja_jeden_dokument": [
@@ -90,6 +136,34 @@
       "pitanje": "Objasnite postupak i uvjete za odgodu temeljnog vojnog osposobljavanja prema Zakonu o obrani.",
       "odgovor": "Odgoda upućivanja na Temeljno vojno osposobljavanje regulirana je Zakonom o obrani i provedbenim propisima. Postupak — Zahtjev se podnosi područnom odjelu za poslove obrane u roku od 8 dana od primitka poziva, preporučenom poštom ili elektronički, uz priloženu dokumentaciju koja opravdava odgodu. Razlozi za odgodu — Školovanje: kandidat upisan na visoko učilište može podnijeti zahtjev svake akademske godine, najdulje do kraja godine u kojoj navršava 29 godina. Obiteljski razlozi: smrt člana uže obitelji ili situacija u kojoj bi upućivanje obitelj dovelo u težak položaj. Odlučivanje — Područni odjel donosi rješenje u upravnom postupku kojim se utvrđuje konkretan rok odgode. Protiv rješenja moguća je žalba i pokretanje upravnog spora.",
       "izvor": "Zakon o obrani, čl. 21.i, 21.j, 21.k, 21.n, 35"
+    },
+    {
+      "id": 40,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Objasnite cjelovit sustav unutarnje sluzbe u vojnom objektu prema Pravilniku o sluzbi u OSRH - koje funkcije obuhvaca, tko se na njih rasporeduje i tko je izuzet.",
+      "odgovor": "Unutarnja sluzba organizira se neprekidno radi osiguranja rada, zastite ljudi, objekata i sredstava, a obuhvaca osiguranje objekata (straza i strazarska sluzba), nadzorno-propusnu sluzbu, dezurstvo i protupozarnu sluzbu. Na duznosti se u pravilu odreduju vojne osobe, iznimno i drzavni sluzbenici i namjestenici za nadzorno-propusnu i protupozarnu sluzbu. Izuzimaju se dusobriznici i trudnice, a djelatnici vojno-obavjestajnog roda ne rasporeduju se; pojedinci mogu biti privremeno oslobodeni na ocjenu vojnog lijecnika. Majka s djetetom do tri godine i samohrani roditelj s djetetom do sest godina mogu se odrediti samo uz osobni pristanak. Osoba se o duznosti obavjestava najkasnije sedam dana prije.",
+      "izvor": "Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 8"
+    },
+    {
+      "id": 41,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Detaljno opisite postupak podnosenja i rjesavanja molbi, prituzbi i prigovora prema Pravilniku o sluzbi u OSRH, ukljucujuci rokove i ogranicenja.",
+      "odgovor": "Pripadnik OS moze nadredenom usmeno upucivati ili pisano podnositi molbe, prituzbe i prigovore. Molbu primljenu u pisanom obliku nadredeni rjesava najzurnije, a najkasnije u roku od 15 dana; ako nije nadlezan, u roku od pet dana prosljeduje je nadleznom tijelu i obavjestava podnositelja. Prituzba protiv nadredenog podnosi se iskljucivo pisano, najkasnije u roku od tri dana od dogadaja, a nadredeni protiv kojeg je podnesena ne smije je sam rjesavati nego je salje visem nadredenom. Skupne prituzbe nisu dopustene - svatko podnosi zasebno i osobno je obrazlaze. Prituzba se moze povuci prije odluke, a svjesno neosnovana ponovljena prituzba povlaci posljedice.",
+      "izvor": "Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 32"
+    },
+    {
+      "id": 42,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Objasnite obveze pripadnika Oruzanih snaga tijekom i nakon oruzanog sukoba te u zarobljenistvu prema Pravilniku o sluzbi u OSRH.",
+      "odgovor": "Tijekom sukoba pripadnici su duzni izvrsavati duznosti svim snagama i postivati medunarodno ratno i humanitarno pravo, osobito stiteci stanovnistvo, zdravstveno i vjersko osoblje, ranjenike i zarobljenike te kulturna dobra. Zabranjeno je napustanje polozaja i odbijanje duznosti; odvojene osobe prikljucuju se najblizoj postrojbi. Nakon sukoba zapovjednici preustrojavaju i popunjavaju postrojbu te se provodi identifikacija i pokapanje poginulih i asanacija terena. U zarobljenistvu osoba priopcava samo ime, prezime, cin, datum rodenja i maticni broj, postupa po medunarodnom pravu i ne smije davati podatke stetne za OS; sa zarobljenicima se postupa covjecno, bez zlostavljanja.",
+      "izvor": "Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 63-68"
+    },
+    {
+      "id": 43,
+      "kategorija": "kompleksno_jedan_dokument",
+      "pitanje": "Detaljno opisite sustav i vrste uzbune prema Pravilniku o sluzbi u OSRH - koje vrste postoje, tko ih zapovijeda i sto obuhvaca uputa za borbenu uzbunu.",
+      "odgovor": "Cilj uzbune je dovodenje postrojbe na potreban stupanj spremnosti prikupljanjem u planiranom vremenu na mjestima za uzbunu, gdje se dijeli streljivo i oprema te provjerava brojno stanje. Uzbuna moze biti borbena, mobilizacijska, zbog prirodnih/tehnicko-tehnoloskih/ekoloskih nesreca te radi obuke, uvjezbavanja i provjere. Signal za borbenu uzbunu jedinstven je i propisuje ga ministar obrane; mobilizacijsku uzbunu zapovijeda zapovjednik postrojbe s pricuvnim sastavom ili ovlasteno dezurno tijelo, a provodi se prema pravilniku o mobilizaciji. Uputa za borbenu uzbunu odreduje tko je zapovijeda, signal, duznosti dezurnih, nacin obavjescivanja, postupak pojacavanja straze, mjesta za uzbunu i redoslijed izlaska, organizaciju obrane i potpore te signal za prestanak.",
+      "izvor": "Pravilnik o sluzbi u OSRH (NN 91/2009), cl. 58, 59, 60"
     }
   ],
   "jednostavna_pitanja": [
