@@ -8,7 +8,7 @@ Chatbot temeljen na velikim jezičnim modelima (LLM) i RAG arhitekturi koji odgo
 
 ## Opis projekta
 
-**DzeToPishe** (Gdje to piše) je chatbot koji koristi model **EuroLLM** i tehniku **Retrieval-Augmented Generation (RAG)** za pronalaženje relevantnih odlomaka iz korpusa vojnih dokumenata i generiranje odgovora na postavljeno pitanje. Projekt je razvijen u Google Colabu i evaluiran automatskim metrikama (BLEU, ROUGE-L, BERTScore, cosine similarity).
+**DzeToPishe** (Gdje to piše) je chatbot izrađen u tri verzije. Sve tri verzije koriste model **EuroLLM**. Prvi koristi čisti LLM i nazvan je Vanilla, drugi FAISS RAG, a treći uz pomoć grafovske baze podataka Neo4j GraphRAG. Projekt je razvijen u Google Colabu i evaluiran automatskim metrikama (ROUGE-L, BERTScore, cosine similarity).
 
 ---
 
@@ -24,11 +24,7 @@ DzeToPishe/
 │   │   │   ├── Zakon_o_obrani_2025.docx
 │   │   │   └── Zakon_o_sluzbi_u_Oruzanim_snagama_Republike_Hrvatske_2025.docx
 │   │   └── 03_Pravilnici/
-│   │       ├── Pravilnik o službi u Oružanim snagama Republike Hrvatske.pdf
-│   │       ├── Pravilnik o službi u Oružanim snagama Republike Hrvatske.html
-│   │       ├── Pravilnik o temeljnom vojnom osposobljavanju.pdf
-│   │       └── Pravilnik o temeljnom vojnom osposobljavanju.html
-│   ├── pitanja_odgovori.docx    # Skup pitanja i referentnih odgovora
+│   │       └── Pravilnik o temeljnom vojnom osposobljavanju.pdf
 │   └── pitanja_odgovori.json   # Isti skup u JSON formatu (3 kategorije)
 ├── notebooks/
 │   ├── 2026 04 27 diplomskiRad_euroLLM.ipynb           # Glavni notebook — RAG chatbot
@@ -53,7 +49,6 @@ DzeToPishe/
 | Ustav | Ustav Republike Hrvatske (2018) |
 | Zakoni | Zakon o obrani (2025) |
 | Zakoni | Zakon o službi u Oružanim snagama RH (2025) |
-| Pravilnici | Pravilnik o službi u Oružanim snagama RH |
 | Pravilnici | Pravilnik o temeljnom vojnom osposobljavanju |
 
 ---
@@ -70,20 +65,10 @@ JSON datoteka sadrži pitanja u tri kategorije:
 
 ## Tehnički stack
 
-- **Model:** [EuroLLM](https://huggingface.co/utter-project/EuroLLM-9B-Instruct) (Hugging Face)
+- **Model:** [EuroLLM-22B-Instruct-2512](https://huggingface.co/utter-project/EuroLLM-22B-Instruct-2512) (Hugging Face)
 - **Kvantizacija:** bitsandbytes (4-bit)
 - **RAG:** sentence-transformers + FAISS
+- **Neo4j**
 - **Ekstrakcija teksta:** python-docx, pdfplumber
-- **Evaluacija:** BLEU (nltk), ROUGE-L (rouge-score), BERTScore, cosine similarity
+- **Evaluacija:** ROUGE-L (rouge-score), BERTScore, cosine similarity, LLM as Judge, 4 eksperta iz oružanih snaga (jedan pravnik i tri brigadira)
 - **Okruženje:** Google Colab + Google Drive
-
----
-
-## Pokretanje
-
-Notebook su namijenjeni pokretanju u **Google Colabu**. Potrebno je:
-
-1. Pohraniti repozitorij na Google Drive
-2. Otvoriti `diplomskiRad_euroLLM.ipynb` u Colabu
-3. Pokrenuti ćelije redom — notebook će instalirati ovisnosti, montirati Drive i autentificirati se s Hugging Face
-4. Za evaluaciju pokrenuti `diplomskiRad_euroLLM_evaluacija.ipynb` nakon što postoje rezultati u `rezultati/`

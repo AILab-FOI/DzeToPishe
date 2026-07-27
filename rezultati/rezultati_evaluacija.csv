@@ -1,0 +1,712 @@
+﻿rbr,kategorija,pitanje,ocekivani_odgovor,vanilla_odgovor,vanilla_vrijeme_sekunde,rag_odgovor,rag_vrijeme_sekunde,graph_rag_odgovor,graph_rag_vrijeme_sekunde,vanilla_rouge_l,vanilla_cosine,rag_rouge_l,rag_cosine,graph_rouge_l,graph_cosine,vanilla_bertscore,rag_bertscore,graph_bertscore
+1,kompleksna_pitanja_vise_dokumenata,Opišite cjelokupnu proceduru transformacije novaka u razvrstanog pričuvnika kroz sve pravne akte koji reguliraju taj proces.,"Procedura je regulirana kroz 4 pravna akta. 1. USTAVNI TEMELJ (Ustav RH, čl. 47). Vojna obveza je dužnost svih za to sposobnih državljana. Dopušten prigovor savjesti iz vjerskih i/ili moralnih razloga uz obvezu ispunjavanja drugih dužnosti određenih zakonom. 2. NOVAČKA OBVEZA (Zakon o obrani, čl. 19-21). Nastaje u kalendarskoj godini kad državljanin RH navrši 18 godina. Državljanin RH uvodi se u vojnu evidenciju u kalendarskoj godini u kojoj navrši 18 godina života. Prolazi zdravstveni pregled i psihologijsko ispitivanje. 3. TEMELJNO VOJNO OSPOSOBLJAVANJE (Zakon o obrani čl. 21.m, Pravilnik o temeljnom vojnom osposobljavanju). Traje 2 mjeseca. Ministar obrane donosi Plan upućivanja u tekućoj godini do 15.12. za iduću godinu. Odluku o upućivanju donosi 40 dana prije upućivanja kandidata (Pravilnik čl. 7). Ročnici se obučavaju za specijalnost 11A - strijelac (Pravilnik čl. 9). Daju svečanu prisegu. 4. STATUS ROČNIKA (Zakon o službi, čl. 25, 26, 30). Ročnik je dio mirnodopskog sastava OS tijekom temeljnog vojnog osposobljavanja. Odluka o temeljnom vojnom osposobljavanju uređuje prava i obveze (nije upravna stvar). 5. PRIJELAZ U PRIČUVU (Zakon o obrani, čl. 25, 27). Nakon temeljnog vojnog osposobljavanja automatski postaje pričuvnik. Razvrstani je pričuvnik jer ima određenu vojnostručnu specijalnost. Određuje mu se ratni raspored. Može biti pozivan na vježbe do 90 dana godišnje","Transformacija novaka u razvrstani pričuvnik u Hrvatskoj regulirana je Zakonom o službi u Oružanim snagama Republike Hrvatske (ZSOŠ) te pripadajućim pravilnicima. Evo korak-po-korak procedure:  
+
+1. **Raspored na odsluženje vojnog roka** – Prema članku 60. ZSOŠ, mladi ljudi raspoređeni su na odsluženje vojnog roka nakon završetka srednje škole ili po drugi put kad navrše 18 godina.  
+
+2. **Proverba zdravstvenog stanja i sposobnosti** – Nakon dolaska u postrojbu, provodi se medicinska proverba kako bi se utvrdilo da li kandidat ispunjava fizičke i psihičke uvjete za služenje (članak 79. ZSOŠ).  
+
+3. **Teorijsko i praktično osposobljavanje** – Vojnici prolaze osnovno vojno osposobljavanje prema Programu vojne osposobljenosti (članak 80. ZSOŠ), uključujući topografiju, taktiku, uporabu oružja itd.  
+
+4. **Ocena sposobnosti i klasifikacija** – Na kraju osposobljavanja, zapovjednik postrojbe ocjenjuje sposobnost vojnika i daje preporuku za klasifikaciju (npr. ""odlično"", ""dobro"" itd.) (članak 81. ZSOŠ).  
+
+5. **Deklariranje kao razvrstani pričuvnik** – Ako ispuni kriterije, vojnik postaje razvrstani pričuvnik i dobiva status pričuve (članak 82. ZSOŠ).  
+
+6. **Registracija u sustavu pričuvnih snaga** – Ministarstvo obrane vodi evidenciju razvrstanih pričuvnika (članak 83. ZSOŠ).  
+
+7. **Moguća pozivnica na dodatnu osposobljavanju** – Razvrstani pričuvnici mogu biti pozvani na dodatne tečajeve ovisno o potrebama vojske (članak 84. ZSOŠ).  
+
+Nadležno tijelo za ovaj postupak je Glavno stožer Oružanih snaga RH, a detaljniji uputi nalaze se u Pravilniku o provedbi ZSOŠ.",64.79,"Transformacija novaka u razvrstanog pričuvnika u Republici Hrvatskoj regulirana je Zakonom o obrani („Narodne novine“ br. 136/25), a procedura uključuje sljedeće korake:  
+
+### **1. Prihvata u vojnu evidenciju**  
+Prema **čl. 21.** Zakona o obrani, **novak koji boravi u inozemstvu** dužan je prijaviti se diplomatskoj misiji ili konzularnom uredu RH ako želi regulirati svoju vojnu obvezu. To se odnosi na one koji nisu bili uvedeni u vojnu evidenciju u RH.  
+- **Čl. 21. stavak 1.:** Zahtijeva prijavu diplomatskoj misiji do 18. godine života.  
+- **Čl. 21. stavak 2.:** Dopuštena je prijava do 29. godine života ako se obveznik ranije nije uključio u sustav.  
+- **Čl. 21. stavak 3.:** Potreban je dokaz o izvršenju vojne obaveze u inozemstvu.  
+
+Dokumentacija se prosljeđuje Ministarstvu obrane putem diplomatskih kanala.  
+
+---  
+
+### **2. Ocjena sposobnosti i razvrstavanje**  
+Nakon uvođenja u vojnu evidenciju, obveznik prolazi medicinsku procjenu. Prema **čl. 25.** Zakona o obrani:  
+- **Čl. 25. d (1):** Promjene u zdravstvenom stanju moraju se prijaviti Ministarstvu obrane unutar 8 dana.  
+- **Čl. 25. d (2):** Medicinska komisija ocjenjuje sposobnost za vojnu službu.  
+- **Čl. 25. d (3):** Ako nedostaje dokumentacija, traži se dodatna provjera.  
+- **Čl. 25. d (4):** Rezultat se unosi u vojnu iskaznicu.  
+
+Ako je sposoban, obveznik postaje **razvrstan pripašnjak** prema **čl. 25. k** istog zakona.  
+
+---  
+
+### **3. Dodatni uvjeti za razvrstavanje**  
+Za razvrstavanje u pripašnjake vrijede dodatni kriteriji:  
+- **Čl. 25. m:** Oni koji su već služili kao **civilni ročnici** također ulaze u sustav.  
+- **Čl. 25. j:** Ako se novak prije civilne službe odluči za vojnu karijeru, prelazi na temeljno vojno osposobljavanje.  
+
+---  
+
+### **4. Pravna osnova i nadležna tijela**  
+- **Zakon o obrani (NN 136/25) – čl. 21.–25.:** Regulira prijavu, medicinski pregled i razvrstavanje.  
+- **Zakon o službi u Oružanim snagama (NN 73/13, 75/15) – čl. 32.:** Ministrtvo obrane vodi evidenciju ročnika i pričuvnika.  
+- **Glavni stožer OSRH:** Donosi programe osposobljavanja (npr. **čl. 25. c**).  
+
+Procedura je zaključena kada Ministarstvo obrane izda rješenje o razvrstavanju, a obveznik primi nalog za službu.",100.09,"Cjelokupna procedura transformacije novaka u razvrstanog pričuvnika regulirana je slijedećim pravnim aktima:  
+
+1. **Zakon o službi u Oružanim snagama Republike Hrvatske** (članak 31):  
+   - Novaci se popunom ratnog ustroja Oružanih snaga obračunavaju prema odredbama Zakona o obrani.  
+   - Ugovorni pričuvnici se pozivaju i upućuju na službu u skladu s odredbama Zakona o obrani i ovog Zakona.  
+
+2. **Zakon o obrani** (članak 21.a):  
+   - Pri dolasku u Oružane snage, pričuvnici moraju ispunjavati uvjete iz članka 21.a, uključujući putovanje od prebivališta do mjesta službe i natrag.  
+
+3. **Pravilnik o temeljnom vojnom osposobljavanju** (članak 2):  
+   - Pojam ""ročnik"" uključuje i one koji se dragovoljno prijave za osposobljavanje, što može dovesti do klasifikacije kao pričuvnika.  
+
+4. **Postupak prijave i evidencije kandidata** (Pravilnik o temeljnom vojnom osposobljavanju, članak 1):  
+   - Kandidati se prijavljuju i evidentiraju prema propisanom postupku, što omogućuje njihov prijelaz u status pričuvnika nakon osposobljavanja.  
+
+5. **Kriteriji za razvrstavanje u pričuvnike** (Zakon o obrani, članak 25.a):  
+   - Vojni obveznik koji je odslužio temeljno osposobljavanje postaje razvrstan pričuvnik.  
+
+6. **Mogućnost dragovoljnog osposobljavanja** (Zakon o obrani, članak 25.b):  
+   - Oni koji su uspješno završili dragovoljno osposobljavanje također ulaze u sustav pričuvništva.  
+
+7. **Dodatni uvjeti za razvrstavanje** (Zakon o obrani, članak 25.c-25.",65.87,0.1087866108786611,0.9163875579833984,0.1413793103448276,0.9091659784317017,0.16810344827586207,0.9193088412284851,0.6909259557723999,0.6816843152046204,0.7143484950065613
+2,kompleksna_pitanja_vise_dokumenata,Kako je regulirana hijerarhija odlučivanja o uporabi Oružanih snaga u različitim situacijama kroz Ustav i Zakon o obrani?,"Hijerarhija odlučivanja detaljno razlikuje situacije. 1. RATNO STANJE (Ustav čl. 100, Zakon čl. 47). Predsjednik Republike naređuje uporabu i zapovijeda. Ima punu ovlast i odgovoran je za obranu. 2. STANJE NEPOSREDNE UGROŽENOSTI (Ustav čl. 100, Zakon čl. 48). Predsjednik Republike može narediti uporabu. Potreban je supotpis predsjednika Vlade. 3. PRELAZAK GRANICE (Ustav čl. 7, Zakon čl. 49). Hrvatski sabor donosi odluku (većina svih zastupnika). Vlada predlaže. Predsjednik daje prethodnu suglasnost. Ako Predsjednik uskrati suglasnost, potrebna je dvotrećinska većina. 4. POMOĆ SAVEZNICIMA (Ustav čl. 7, Zakon čl. 51). Sabor donosi odluku. Vlada predlaže. Predsjednik daje suglasnost. 5. VJEŽBE I OBUKA (Ustav čl. 7, Zakon čl. 69). Vlada donosi odluku. Predsjednik daje suglasnost. Za manje postrojbe (do razine voda) odluku donosi ministar obrane. 6. PROVEDBA (Zakon čl. 70). Načelnik Glavnog stožera ima ovlast punog zapovijedanja. Odgovoran je Predsjedniku za zapovijedi i naredbe, a ministru za provedbu odluka","Hierarhija odlučivanja o uporabi Oružanih snaga u Republici Hrvatskoj regulirana je Ustavom Republike Hrvatske (članak 97.) i Zakonom o obrani (članci 6., 8., 10.).  
+
+**Prema Ustavu (čl. 97.):**  
+- Predsjednik Republike Hrvatske vrhovni je zapovjednik Oružanih snaga.  
+- Vlada RH ima ovlast donošenja odluka o upotrebi oružanih snaga u skladu s Ustavom i međunarodnim obvezama.  
+
+**Prema Zakonu o obrani (članci 6.–10.):**  
+- **Ministar obrane** donosi odluke o korištenju snaga pod vodstvom Vlade.  
+- **Predsjednik RH** može rasporediti snage izvan granica samo uz suglasnost Sabora.  
+- **Sabor RH** ima ulogu nadzora nad sigurnosnom politikom putem odbora za obranu.  
+
+Nadležno tijelo za nadzor je **Državno tajništvo za nacionalnu sigurnost** (prema Pravilniku o unutarnjoj organizaciji).  
+
+Napomena: Ova informacija temelji se na važećim propisima do 2024. godine. Za ažurirane podatke preporučuje se provjera najnovijih izmjena zakona.",36.24,"Prema Ustavu Republike Hrvatske (Članak 100.) i Zakonu o obrani (Članak 46.), hijerarhija odlučivanja o uporabi Oružanih snaga u različitim situacijama je sljedeća:  
+
+1. **U ratu** – Prema Ustavu (Članak 100., stavak 4.) i Zakonu o obrani (Članak 47.), **predsjednik republike** naređuje uporabu Oružanih snaga i zapovijeda njima u ratnom stanju.  
+
+2. **U stanju neposredne ugroženosti** – Prema Ustavu (Članak 100., stavak 3.) i Zakonu o obrani (Članak 48.), **predsjednik republike** može, uz supotpis predsjednika vlade, narediti uporabu Oružanih snaga čak i ako nije proglašeno ratno stanje.  
+
+3. **U ostalim slučajevima** – Prema Zakonu o obrani (Članak 46.), odluku donose **Hrvatski sabor, predsjednik republike, predsjednik vlade i ministar obrane** zajedno, ovisno o situaciji.  
+
+Također, prema Zakonu o obrani (Članak 46., stavak 3.), **zapovijedi načelnika Glavnog stožera** provode odluke o uporabi Oružanih snaga.  
+
+Napomena: Ova struktura vrijedi osim u izvanrednim situacijama kada predsjednik republike ima šire ovlasti po Ustavu (Članak 100.).",42.59,"Hierarhija odlučivanja o uporabi Oružanih snaga u različitim situacijama regulirana je kroz **Ustav Republike Hrvatske** i **Zakon o obrani** kako slijedi:  
+
+### **Prema Ustavu (Članak 7):**  
+- **Ratno stanje / Teritorijalna cjelovitost:**  
+  - Odluku o upotrebi Oružanih snaga donose **Hrvatski sabor**, **Predsjednik Republike**, **predsjednik Vlade** i **ministar obrane** zajedno, u skladu s Ustavom i Zakonom o obrani.  
+  - Ako Predsjednik odbije suglasnost, Hrvatski sabor donosi odluku **dvotrećinskom većinom**.  
+
+- **Međunarodni ugovori / Saveznička pomoć:**  
+  - Ulazak stranih Oružanih snaga u RH moguć je samo na temelju **međunarodnih ugovora** i odluke Hrvatskog sabora (uz suglasnost Predsjednika).  
+
+- **Protupožarna zaštita / Spašavanje:**  
+  - Oružane snage mogu pomagati vatrogastvu i civilnoj zaštiti po odluci Vlade.  
+
+### **Prema Zakonu o obrani (Članak 46 & 57):**  
+- **Borbeno djelovanje protiv civilnih zrakoplova:**  
+  - Regulirano posebnim zakonom (npr. Zbirka zakona o zračnoj plovidbi).  
+
+- **Glavni stožer kao izvršni organ:**  
+  - Sve odluke o upotrebi Oružanih snaga (osim u ratu) provode se preko **zapovijedi načelnika Glavnog stožera**.  
+
+### **Izvori:**  
+- [Ustav RH, Članak 7](https://www.sabor.hr/Search/DocDetail.aspx?",65.68,0.11333333333333334,0.9163554906845093,0.24451410658307207,0.9255766868591309,0.1381381381381381,0.9207477569580078,0.6619692444801331,0.680676281452179,0.6344640851020813
+3,kompleksna_pitanja_vise_dokumenata,Objasnite sve oblike obveza državljana u obrani prema Zakonu o obrani i Ustavu.,"Državljani RH imaju 6 kategorija obveza u obrani. 1. USTAVNI TEMELJ (Ustav RH, čl. 47). Vojna obveza i obrana RH dužnost je svih za to sposobnih državljana. Dopušten je prigovor savjesti. 2. VOJNA OBVEZA (Zakon o obrani, čl. 19-21). Nastaje u godini kada državljanin navrši 18 godina. Prestaje s 55 godina za muškarce i 50 godina za žene. Sastoji se od novačke obveze, temeljnog vojnog osposobljavanja ili civilne službe te služenja u pričuvi. 3. SLUŽENJE U UGOVORNOJ PRIČUVI (Zakon o obrani, čl. 27, 28). Obuhvaća dragovoljno / temeljno vojno osposobljavanje. Osposobljavanje traje do 90 dana godišnje. 4. RADNA OBVEZA (Zakon o obrani, čl. 31). Odnosi se na pravne osobe i državljane RH. Uvodi se u ratnom stanju i stanju neposredne ugroženosti. 5. RADNA POMOĆ (Zakon o obrani, čl. 31-32). Može se uvesti u ratnom stanju i stanju neposredne ugroženosti. Služi za izvršenje zadaća nositelja obrambenih funkcija. 6. MATERIJALNA OBVEZA (Zakon o obrani, čl. 33). Obuhvaća ustupanje objekata i materijalnih sredstava. Za obrambene zadaće i osposobljavanje","Prema **Zakonu o obrani** (Narodne novine broj 76/05) i **Ustavu Republike Hrvatske** (NN br. 123/2000), građani imaju sljedeće obveze u području obrane:  
+
+1. **Građanska obaveza prema Zakonu o obrani (čl. 8–9):**  
+   - Građani su dužni sudjelovati u obrani zemlje kroz:  
+     - **Služenje vojnog roka** (građevinski rok) – određuje se Pravilnikom o vojnom roku (NN br. 123/05).  
+     - **Mobilizaciju** – poziv na služenje u slučaju izvanrednih situacija (čl. 10).  
+     - **Dobrovoljna vojna služba** – mogućnost dobrovoljnog angažmana (čl. 11).  
+
+2. **Obveza prema Ustavu RH (čl. 14):**  
+   - Svaki građanin ima pravo i dužnost braniti domovinu.  
+   - Obrana zemlje uključuje i **alternativnu službu** za one koji iz vjerskih ili moralnih razloga ne mogu nositi oružje (čl. 14).  
+
+3. **Nadležno tijelo:**  
+   - Za provedbu zakona nadležno je **Ministarstvo obrane RH** (čl. 12 Zakona o obrani).  
+
+Napomena: Ova informacija temelji se isključivo na hrvatskom zakonodavstvu. Dodatne specifikacije (npr. iznose naknada za alternativnu službu) zahtijevaju provjeru Pravilnika o vojnom roku.",47.34,"Prema Zakonu o obrani i Ustavu Republike Hrvatske, građani imaju različite oblike obveza u obrani:
+
+1. **Vojna obveza** (Zakon o obrani, članak 18., 19.):  
+   - Dužnost svih sposobnih građana od 18. godine života.  
+   - Obuhvaća osposobljavanje, pripremu i sudjelovanje u obrani.  
+
+2. **Služenje u ugovornoj pričuvi** (Zakon o obrani, članak 18.):  
+   - Građani sklapaju ugovor s Oružanim snagama za služenje u pričuvi.  
+
+3. **Radna obveza** (Zakon o obrani, članak 18.):  
+   - Građani pružaju radnu potporu za potrebe obrane.  
+
+4. **Materijalna obveza** (Zakon o obrani, članak 18.):  
+   - Građani doprinosu financiranju obrane poreznim i drugim davanjima.  
+
+5. **Ostala prava i obveze** (Zakon o obrani, članak 18.):  
+   - Inkluzivna kategorija koja može uključivati dodatne oblike suradnje.  
+
+6. **Pripadnici oružanih snaga** (Zakon o službi u Oružanim snagama, članak 3.):  
+   - Djelatne vojne osobe, pričuvnici, kadeti i ročnici.  
+
+7. **Priigovor savjesti** (Ustav RH, članak 47.):  
+   - Građani mogu odbiti vojnu službu zbog vjerskih ili moralnih uvjerenja, ali moraju ispunjavati alternativne obveze.  
+
+8. **Radna pomoć u ratu** (Zakon o obrani, članak 31.):  
+   - U izvanrednim situacijama građani mogu biti pozvani na rad za obranu.  
+
+Ove obveze su definirane kako bi osigurale nacionalnu sigurnost i sukladne su ustavnom načelu da je obrana dužnost svakog građanina (Ustav, članak 47.).",62.49,"Prema **Zakonu o obrani** i **Ustavu Republike Hrvatske**, građani imaju različite oblike obveza u obrani:  
+
+### 1. **Vojna obveza**  
+- Prema **Članku 19.** Zakona o obrani, vojna obveza obuhvaća:  
+  - Osposobljavanje, pripremu i sudjelovanje u obrani.  
+  - Nastaje u kalendarskoj godini kada građanin navrši **18 godina**.  
+- Ustav (**Članak 47.**) također spominje da je obrana domovine dužnost građana.  
+
+### 2. **Priopćenje savjesti**  
+- Građani mogu odbiti vojnu službu iz vjerskih ili moralnih razloga (Ustav, **Članak 47.**).  
+- Moraju ispunjavati druge zakonske obveze umjesto vojne službe.  
+
+### 3. **Radna i materijalna obveza**  
+- Prema **Članku 21.f.** Zakona o obrani, građani su dužni pružiti materijalnu potporu obrani.  
+- Postoji i **radna obveza** (npr. za pripadnike nekih profesija poput policajaca), ali moraju biti obaviješteni unaprijed (**Članak 21.j.**).  
+
+### 4. **Druge posebne obveze**  
+- Za određene skupine (npr. studente, umirovljenike) postoje odgode ili izuzeća (**Članak 21.k–q.**).  
+- Građani moraju poštovati odluke nadležnih tijela (npr. pozivi na osposobljavanje, Pravilnik o temeljnom vojnom osposobljavanju, **Članak 4.**).  
+
+Za detaljnije informacije pogledajte odgovarajuće članke Zakona o obrani i Ustava RH.",57.98,0.11602209944751381,0.8936893939971924,0.224390243902439,0.9318831562995911,0.18181818181818182,0.9243370294570923,0.6685361266136169,0.6785750389099121,0.6537971496582031
+4,kompleksna_pitanja_jedan_dokument,Objasnite sustav imenovanja i odgovornosti načelnika Glavnog stožera kroz sve relevantne propise.,"Položaj načelnika Glavnog stožera OS RH reguliran je kroz pet razina. Imenuje ga Predsjednik Republike na prijedlog Vlade, nakon pribavljenog mišljenja Odbora za obranu Sabora. Mandat traje četiri godine bez mogućnosti ponovnog imenovanja. Razrješuje ga Predsjednik Republike izravno ili na prijedlog Vlade, nakon mišljenja Odbora za obranu Sabora. Na čelu je Glavnog stožera i nadređen je svim stožerima, zapovjedništvima i postrojbama OS-a. Obnaša dužnost glavnog vojnog savjetnika Predsjedniku i ministru obrane. Ima ovlast punog zapovijedanja u OS-u. Djeluje na temelju zapovijedi Predsjednika, odluka ministra obrane i Zakona. Predsjedniku je odgovoran za provedbu zapovijedi i naredbi, a ministru obrane za provedbu odluka. Obvezan je istodobno izvještavati oba o uporabi Oružanih snaga.","Sustav imenovanja i odgovornosti **Načelnika Glavnog stožera OSRH** (Oružanih snaga Republike Hrvatske) reguliran je sljedećim propisima:  
+
+### **Zakon o obrani (Narodne novine br. 97/02., 86/04., 127/06.)**  
+- **Članak 10.**: Načelnika Glavnog stožera imenuje Predsjednik Republike Hrvatske na prijedlog Vlade, uz suglasnost Sabora.  
+- **Članak 11.**: Načelnik Glavnog stožera vrši rukovodeću funkciju u OSRH i odgovoran je za provedbu odluka Predsjednika i Vlade.  
+
+### **Zakon o službi u Oružanim snagama RH (Narodne novine br. 127/06.)**  
+- **Članak 12.**: Načelnik Glavnog stožera ima najviši čin generala i izravno je podređen predsjedniku države kao vrhovnom zapovjedniku OSRH.  
+
+### **Pravilnik o ustroju Glavnog stožera OSRH (NN 127/06.)**  
+- Definisan je rad Načelnika kao strateškog voditelja vojne politike i operacija.  
+
+### **Dodatne odgovornosti**  
+- Nadzire planiranje i provedbu vojnih operacija.  
+- Imenuje zapovjednike rodova i postrojbi po preporuci ministra obrane.  
+- Predstavlja OSRH pred međunarodnim partnerima.  
+
+Napomena: Ova informacija temelji se na važećim hrvatskim zakonima i pravilnicima do 2023. godine. Za ažurirane podatke preporučuje se provjera najnovijih izmjena.",50.59,"Sustav imenovanja i odgovornosti **načelnika Glavnog stožera** uređen je sljedećim propisima:
+
+### **1. Imenovanje načelnika Glavnog stožera**  
+- Prema **Članku 16. stavku 4. Zakona o obrani (2025.)**, **načelnik Glavnog stožera imenuje se na razdoblje od četiri godine i ne može biti ponovno imenovan**.  
+- **Članak 123.** istog zakona nalaže da osoba koja je na dužnosti načelnika Glavnog stožera na dan stupanja na snagu Zakona ostaje na dužnosti do isteka svog mandata.  
+- **Propisivanje ustroja Glavnog stožera** vrši **Predsjednik Republike** na prijedlog načelnika Glavnog stožera i uz suglasnost **ministra obrane** (**Članak 16. stavak 5.*).  
+
+### **2. Nadležnosti i odgovornosti načelnika Glavnog stožera**  
+- Prema **Članku 70. stavku 1.**, načelnik Glavnog stožera ima **punu ovlast zapovijedanja u Oružanim snagama** temeljem odluka Predsjednika Republike i ministra obrane.  
+- On je **odgovoran Predsjedniku Republike** za provedbu zapovijedi i **ministru obrane** za provedbu odluka (**Članak 70. stavci 2. i 3.*).  
+- Prema **Članku 70. stavku 4.**, načelnici Glavnog stožera mogu **privremeno staviti postrojbe u pripravnost** u slučaju opasnosti (npr. katastrofe), a o tome moraju odmah izvijestiti predsjednika i ministra.  
+- Prema **Članku 50. stavku 6.**, ministar obrane na prijedlog načelnika Glavnog stožera propisuje **uvjete i postupak raspoređivanja vojnih osoba** na dužnosti.  
+
+### **3. Pravosudni nadzor i ustavna osnova**  
+- Iako Zakon o obrani ne sadrži direktnu poveznicu s Ustavom, prema **Članku 103.** Ustava, Predsjednik i Vlada surađuju u sigurnosnoj politici, što uključuje i imenovanje visokih vojnih dužnosnika.  
+- Prema **Članku 111.** Ustava, odluke Vlade (uključujući i one vezane za sigurnost) moraju biti usklađene sa zakonom.",78.53,"Sustav imenovanja i odgovornosti **Načelnika Glavnog stožera** Oružanih snaga Republike Hrvatske regulisan je kroz više propisa, uključujući **Zakon o obrani** i **Zakon o službi u Oružanim snagama RH**. Evo ključnih elemenata:
+
+### **Imenovanje Načelnika Glavnog stožera**  
+- Prema **Članku 15. Zakona o obrani**, **Načelnik Glavnog stožera** imenuje se na razdoblje od **četiri godine** i ne može biti ponovno imenovan.  
+- Ustroj Glavnog stožera propisuje **Predsjednik Republike** na prijedlog **Načelnika Glavnog stožera** i uz suglasnost **ministra obrane** (Članak 15.).  
+- Trenutni Načelnik Glavnog stožera zadržava dužnost do isteka mandata ako je imenovan prije stupanja na snagu novog Zakona (Članak 123).  
+
+### **Dužnosti i odgovornosti**  
+- Prema **Članku 70. Zakona o obrani**, Načelnik Glavnog stožera ima **punu ovlast zapovijedanja u Oružanim snagama** temeljen na:  
+  - Naredbama **Predsjednika Republike**  
+  - Odlukama **ministra obrane**  
+  - Odredbama Zakona o obrani  
+- Odgovoran je **Predsjedniku Republike** za provedbu zapovijedi i **ministru obrane** za provedbu odluka (Članak 70.).  
+- Dužan je o provedbi akata vezanih uz uporabu Oružanih snaga **istodobno izvijestiti** predsjednika i ministra (Članak 70.).  
+- Može **privremeno staviti postrojbe u pripravnost** u slučaju opasnosti (npr. katastrofe, velike nesreće) i mora o tome odmah izvijestiti predsjednika i ministra (Članak 70.).  
+- Kao **glavni vojni savjetnik** predsjedniku i ministru, koordinira pripremu, zapovijedanje i uporabu Oružanih snaga (Članak 15.).",65.09,0.1941747572815534,0.9042604565620422,0.20347394540942929,0.8895907402038574,0.2752808988764045,0.889880895614624,0.6812416315078735,0.6702093482017517,0.688700258731842
+5,kompleksna_pitanja_jedan_dokument,"Objasnite razlike između uporabe i korištenja Oružanih snaga prema Zakonu o obrani, uključujući tko donosi odluke u svakom slučaju.","Zakon o obrani jasno razlikuje UPORABU i KORIŠTENJE OS. UPORABA (čl. 46-57) odnosi se na borbeno djelovanje. U ratnom stanju Predsjednik naređuje uporabu. U stanju neposredne ugroženosti Predsjednik odlučuje uz supotpis predsjednika Vlade. Za prelazak granice odluku donosi Hrvatski sabor, Vlada predlaže, a Predsjednik daje suglasnost. Za pomoć saveznicima odlučuju Sabor, Vlada i Predsjednik. Za operacije u inozemstvu odlučuju Sabor, Vlada i Predsjednik. KORIŠTENJE (čl. 58-64) odnosi se na neborbeno djelovanje. Kod katastrofa Vlada donosi odluku. Kod velikih nesreća odlučuje ministar obrane. Kod protupožarne zaštite odlučuje ministar obrane. Kod traganja i spašavanja odlučuje ministar obrane. Kod pomoći policiji na granici odlučuje Vlada uz suglasnost Predsjednika. KLJUČNE RAZLIKE: uporaba je borbena, izvan RH, o njoj odlučuju Sabor i Predsjednik; korištenje je neborbeno, unutar RH, o njemu odlučuju Vlada i ministar","Prema **Zakonu o obrani** (Narodne novine br. 76/05 i sl.), postoje jasne razlike između **upotrebe** i **korištenja** Oružanih snaga, kao i različiti postupci donošenja odluka ovisno o situaciji.  
+
+### **1. Korištenje Oružanih snaga**  
+- Prema **čl. 9.** Zakona, korišćenjem se podrazumijeva upotreba snaga i sredstava OSRH u miru, npr. za održavanje reda, potporu civilnim institucijama ili sudjelovanje u međunarodnim misijama.  
+- Odluku o korištenju donosi **Predsjednik Republike** po preporuci Vlade (**čl. 8.**).  
+
+### **2. Upotreba Oružanih snaga**  
+- Prema **čl. 10.**, upotrebom se podrazumijeva aktivno djelovanje u ratu, izvanrednom stanju ili agresiji protiv RH.  
+- U tom slučaju odluku donosi **Vlada** nakon savjetovanja s Predsjednikom i Glavnim stožerom OSRH.  
+
+### **Ključna razlika**  
+- **Korištenje** odnosi se na mirnodopsko razdoblje i redovitu provedbu zadaća.  
+- **Upotreba** uključuje ratne operacije i izvanredne situacije.  
+
+Napomena: Ova informacija temelji se na Zakonu o obrani i pripadajućim pravilnicima. Za detaljnije tumačenje potrebno je dodatno proučavati važeće propise.",44.15,"Prema **Zakonu o obrani** (2025), postoje jasne razlike između **korištenja** i **upotrebe** Oružanih snaga, kao i različita tijela koja donose odluke u svakom slučaju.  
+
+### **1. Korišćenje Oružanih snaga**  
+- **Definicija**: Prema **Čl. 46.** Zakona o obrani, korišćenjem se podrazumijeva aktivno angažiranje snaga u operacijama, uključujući i izvan ratnog stanja.  
+- **Tijela koja donose odluke**:  
+  - **Sabor** (donosi strateške odluke),  
+  - **Predsjednik RH** (vrhovni zapovjednik, vidi **Ustav, Čl. 100.**),  
+  - **Vlada** (ministar obrane),  
+  - **Glavni stožer** (provođenje odluka).  
+- **Mehanizam donošenja odluka**: Odluke se donose na temelju Ustava i Zakona o obrani, a provode se preko zapovijedi Glavnog stožera.  
+
+### **2. Uporaba Oružanih snaga**  
+- **Definicija**: Prema **Čl. 47.** Zakona o obrani, upotrebom se podrazumijeva aktivno djelovanje snaga u situacijama neposredne ugroženosti (npr. teroristički napad, invazija).  
+- **Tijela koja donose odluke**:  
+  - **Predsjednik RH** ima pravo naredio upotrebu čak i bez proglašenog rata (vidi **Ustav, Čl. 100.**),  
+  - **Vlada** i **ministar obrane** također sudjeluju u donošenju odluka.  
+- **Posebnost**: Ako postoji neposredna opasnost, Predsjednik RH može samostalno reagirati (supotpis Vlade nije potreban).  
+
+### **Ključna razlika**  
+- **Korišćenje** uključuje širi spektar aktivnosti (operacije, misije, obuka) i zahtijeva višestruku sankciju (Sabor, Vlada, Predsjednik).  
+- **Upotreba** odnosi se na hitne slučajeve ugroze i omogućuje brzu reakciju najviših autoriteta (Predsjednik RH).  
+
+Izvor: **Zakon o obrani 2025, Čl. 46.–47.** + **Ustav RH, Čl. 100.",71.73,"Prema **Zakonu o obrani**, postoje jasne razlike između **korištenja** i **upotrebe** Oružanih snaga, ovisno o situaciji i nadležnim tijelima koja donose odluke.  
+
+### **Korišćenje Oružanih snaga**  
+- Riječ je o svakodnevnom korištenju snaga u mirnodopskim aktivnostima (npr. vježbe, održavanje reda, humanitarne misije).  
+- **Donose odluku:**  
+  - **Vlada** ili **ministar obrane** (Članak 58).  
+  - Odluke se provode preko **zapovijedi načelnika Glavnog stožera** (Članak 58).  
+
+### **Upotreba Oružanih snaga**  
+- Primjenjuje se u specifičnim situacijama, poput:  
+  - Ratnog stanja (Članak 46).  
+  - Proturaketnih operacija (Članak 57).  
+- **Donose odluku:**  
+  - **Hrvatski sabor**, **Predsjednik Republike**, **predsjednik Vlade** i **ministar obrane** zajedno (Članak 46).  
+  - Provodi se preko **zapovijedi načelnika Glavnog stožera** (Članak 46).  
+
+### **Ključna razlika**  
+- **Korišćenje** odnosi se na redovitu upotrebu snaga u mirnodopskom vremenu.  
+- **Upotreba** uključuje hitne/vojne situacije gdje odlučuju više politički i vojni dužnosnici.  
+
+Izvor: [Zakon o obrani 2025, Članak 46 & 58](https://www.nacionalnaobrana.",53.01,0.16927899686520376,0.920220136642456,0.15104166666666669,0.9194737672805786,0.14332247557003255,0.9153450727462769,0.6496787071228027,0.6317181587219238,0.6164317727088928
+6,kompleksna_pitanja_jedan_dokument,Koja su prava i obveze ročnika tijekom temeljnog vojnog osposobljavanja prema Pravilniku o temeljnom vojnom osposobljavanju?,OBVEZE ROČNIKA. Življenje i rad u skladu s propisima o službi u OS. Osposobljavanje za specijalnost 11A (strijelac). Svečana prisega pred ministrom obrane. Pridržavanje vojnih pravila i discipline. PRAVA ROČNIKA. 1. FINANCIJSKA. Plaća ili naknada prema Zakonu o službi. Naknada prijevoza od i do prebivališta. 2. ZDRAVSTVENA ZAŠTITA. Osnovno zdravstveno osiguranje. Dopunsko zdravstveno osiguranje. Osiguranje od ozljede na radu. Osiguranje od nesretnog slučaja. 3. MATERIJALNA. Smještaj. Prehrana. Vojna odora. Sportska oprema. 4. PRIZNANJA. Značka najboljeg ročnika naraštaja. Pravo izbora mjesta službe pri prijmu u djelatnu službu (za najboljeg ročnika),"Prema **Pravilniku o temeljnom vojnom osposobljavanju** (NN br. 9/08), ročnici imaju sljedeća prava i obveze:  
+
+### **Obveze:**  
+- Ispunjavanje svih zapovjedi nadređenih (čl. 7).  
+- Aktivno sudjelovanje u obuci i vježbama (čl. 6).  
+- Poštivanje reda, discipline i propisa (čl. 8).  
+- Čuvanje vojne tajne (čl. 10).  
+
+### **Prava:**  
+- Pravo na zdravstvenu zaštitu i medicinski pregled (čl. 12).  
+- Pravo na obrazovanje i kulturne aktivnosti (čl. 13).  
+- Pravo na pritužbu protiv nepravednog postupka (čl. 14).  
+- Pravo na naknadu štete ako dođe do ozljede ili smrti (čl. 15).  
+
+Nadležno tijelo za provedbu je Ministarstvo obrane RH (čl. 1).  
+
+*Napomena: Ova informacija temelji se isključivo na Pravilniku o temeljnom vojnom osposobljavanju.",35.36,"Prema **Pravilniku o temeljnom vojnom osposobljavanju** (Članak 18.), prava i obveze ročnika tijekom temeljnog vojnog osposobljavanja uključuju sljedeće:  
+
+### **Prava ročnika:**  
+- **Plaća ili naknada** – u iznosu određenom zakonom koji uređuje službu u Oružanim snagama.  
+- **Naknada troškova javnog prijevoza** – u visini cijene karte najjeftinijeg javnog prijevoza:  
+  - Pri dolasku na mjesto provedbe osposobljavanja (od prebivališta do lokacije).  
+  - Pri povratku (od lokacije do prebivališta).  
+- **Osnovno i dopunsko zdravstveno osiguranje**.  
+- **Osiguranje od posljedica nesretnog slučaja**.  
+- **Obvezno zdravstveno osiguranje za slučaj ozljede na radu**.  
+- **Mogućnost izlaska izvan vojne lokacije** – u skladu s rasporedom programa osposobljavanja (npr. vikendevi, slobodni dani).  
+- **Slobodno vrijeme** – unutar propisanog raspona.  
+- **Smještaj i prehrana** – osigurani po standardima vojske.  
+- **Vojna odora i sportska oprema** – osigurana tijekom trajanja osposobljavanja.  
+
+### **Obveze ročnika:**  
+- Svršavanje svih zadataka i aktivnosti definiranih programom osposobljavanja.  
+- Poštivanje propisa i naredaba nadležnih časnika.  
+- Redovno polaženi zdravstveni pregledi i psihološko ispitivanje (ako je predviđeno).  
+
+Izvor: **Pravilnik o temeljnom vojnom osposobljavanju**, Članak 18. (NN 136/25), dostupno na [pravilnik.hr](https://www.pravilnik.",57.81,"Prema **Pravilniku o temeljnom vojnom osposobljavanju**, prava i obveze ročnika tijekom temeljnog vojnog osposobljavanja uključuju sljedeće:  
+
+### **Prava ročnika:**  
+1. **Plaća / Naknada** – Prema članku 18. Pravilnika, ročnici imaju pravo na plaću odnosno naknadu u iznosu određenom zakonom kojim se uređuje služba u Oružanim snagama.  
+2. **Naknada troškova prijevoza** – Prema članku 18. Pravilnika, ročnici imaju pravo na naknadu troškova javnog prijevoza u visini cijene karte najjeftinijeg javnog prijevoza pri dolasku na mjesto osposobljavanja i povratku.  
+3. **Zdravstveno osiguranje** – Prema članku 18. Pravilnika, ročnici imaju pravo na osnovno i dopunsko zdravstveno osiguranje, osiguranje od posljedica nesretnog slučaja, obvezno zdravstveno osiguranje za slučaj ozljede na radu, kao i smještaj i prehranu.  
+4. **Mokra i sportska oprema** – Prema članku 18. Pravilnika, ročnici dobivaju vojnu odoru i sportsku opremu.  
+5. **Izlazak izvan vojne lokacije** – Prema članku 16. Pravilnika, ročnici imaju pravo na izlazak iz vojne lokacije u skladu s rasporedom utvrđenim programom osposobljavanja.  
+
+### **Obaveze ročnika:**  
+- **Pohađanje programa osposobljavanja** – Prema članku 3. Pravilnika, ročnici moraju proći program temeljnog vojnog osposobljavanja kako bi stekli vojna znanja i vještine potrebne za službu u Oružanim snagama.  
+- **Spoštivanje propisa i pravila** – Rukovnici su dužni pridržavati se svih propisa i pravila iz članka 1. Pravilnika.  
+
+Ako vam trebaju dodatne pojedinosti, slobodno pitajte!",62.53,0.10045662100456622,0.8933365345001221,0.24390243902439027,0.9058536887168884,0.2017804154302671,0.9048271775245667,0.6427662372589111,0.6657507419586182,0.6536427736282349
+7,kompleksna_pitanja_jedan_dokument,Objasnite razlike između mirnodopskog i ratnog sastava Oružanih snaga prema Zakonu o službi.,"MIRNODOPSKI SASTAV. Čine ga djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu, ugovorni pričuvnici, kadeti te ročnici na temeljnom vojnom osposobljavanju. Svrha mu je redovno funkcioniranje OS. Veličina je određena mirnodopskim ustrojem. RATNI SASTAV. Čine ga svi iz mirnodopskog sastava te dodatno mobilizirani i razvrstani pričuvnici, nerazvrstani pričuvnici i drugi vojni obveznici. Svrha mu je borbeno djelovanje. Veličina je određena ratnim ustrojem i znatno je veća. PRIJELAZ. Odvija se mobilizacijom u ratnom stanju i stanju neposredne ugroženosti. Odluku donosi Predsjednik Republike. Mobilizacija može biti opća ili djelomična. Mobilizacijom OS prelaze iz mirnodopskog u ratno ustrojstvo","Prema **Zakonu o službi u Oružanim snagama Republike Hrvatske** (Narodne novine broj 76/06), razlike između mirnodopskog i ratnog sastava Oružanih snaga određene su slijedećim načinom:  
+
+### **Mirnodopski sastav**  
+- Definisan je člankom **8.** Zakona – uključuje aktivnu vojsku, pričuve i domobranstvo.  
+- Sastoji se od profesionalnih vojnika, ročnih vojnika i dragovoljaca.  
+- Nadzor obavlja Ministarstvo obrane RH.  
+
+### **Ratni sastav**  
+- Definisan je člankom **9.** Zakona – uključuje sve pripadnike koji mogu biti pozvani u službu tijekom rata ili izvanrednog stanja.  
+- Obavlja se mobilizacijom, uključujući pričuvnike i dragovoljce.  
+- Upravljanje ratnim sastavom regulirano je člankom **10.** Zakona, gdje se navodi da ratno stanje može proglasiti Vlada RH uz suglasnost Sabora.  
+
+### **Nadležno tijelo**  
+Za ratni sastav, odluka o mobilizaciji donosi **Vlada RH** (članak **10.**), dok mirnodopski sastav koordinira **Ministarstvo obrane**.  
+
+Napomena: Ova informacija temelji se isključivo na Zakonu o službi u Oružanim snagama RH (NN 76/06).",42.33,"Prema **Zakonu o službi u Oružanim snagama Republike Hrvatske** (Članak 25.), razlike između mirnodopskog i ratnog sastava Oružanih snaga jesu sljedeće:  
+
+### **Mirnodopski sastav**  
+- Sastoji se od:  
+  - *Djelatnih vojnih osoba* (aktivni časnici, dočasnici, vojnici),  
+  - *Službenika i namještenika* raspoređenih u OSRH,  
+  - *Pričajeva* pozvanih na obuku,  
+  - *Ugovornih pričavnika*,  
+  - *Kadeta* i  
+  - *Ronilaca* koji su završili temeljno vojno osposobljavanje.  
+- Prema **Zakonu o obrani** (Članak 43., stavak 2.), dodatni elementi uključuju *državne službenike i namještenike* raspoređene u OSRH.  
+
+### **Ratni sastav**  
+- Uz sve elemente iz mirnodopskog sastava, uključuje još i:  
+  - *Vojne obveznike* mobilizirane u OSRH (po **Zakonu o službi**, Članak 25., stavak 3.).  
+- Prema **Zakonu o obrani** (Članak 45.), službena upotreba je hrvatski jezik i latinica.  
+
+### **Nadležno tijelo**  
+- **Predsjednik Republike** određuje mirnodopski i ratni ustroj OSRH (prema **Zakonu o službi**, Članak 44.) te potvrđuje strukturu činova.  
+
+Napomena: Informacije su preuzete iz navedenih članaka zakona. Za detaljnije informacije preporučuje se konzultiranje nadležnih tijela (npr. MORH).",53.5,"Prema **Zakonu o službi u Oružanim snagama Republike Hrvatske**, razlike između **mirnodopskog** i **ratnog sastava** Oružanih snaga definirane su sljedećim načinom:  
+
+### **Mirnodopski sastav**  
+- Prema **Članku 25.** Zakona, mirnodopski sastav čine:  
+  - *Djelatne vojne osobe* (vojnici, časnici, dočasnici, mornari).  
+  - *Službenici i namještenici* (npr. civilni zaposlenici u MORH-u).  
+  - *Pričuvnici pozvani na službu*, uključujući:  
+    - *Ugovorne pričuvnike*.  
+    - *Kadete* (studenti vojne škole).  
+    - *Ročnike* (osobe koje su prošle temeljno vojno osposobljavanje).  
+  - *Osobe koje su pristupile temeljnom vojnom osposobljavanju*.  
+
+### **Ratni sastav**  
+- Prema istom članku, ratni sastav uključuje sve iz mirnodopskog sastava **plus**:  
+  - *Mobilizirane vojne obveznike* (npr. ročnici koji nisu još služili).  
+
+### Ključna razlika  
+- **Mirnodopski sastav** odnosi se na stalni dio OS-a (aktivno osoblje + pričuve).  
+- **Ratni sastav** uključuje i mobiliziranu narodnu gardu (vojne obveznike) u slučaju krize.  
+
+Za dodatne detalje pogledajte **Članak 43.** Zakona o obrani, koji dodatno pojašnjava ustroj vojske.",50.32,0.125,0.9046716690063477,0.132404181184669,0.8958088159561157,0.22794117647058823,0.9106355309486389,0.639203667640686,0.6290155649185181,0.6586542129516602
+8,kompleksna_pitanja_jedan_dokument,Objasnite postupak i uvjete za odgodu temeljnog vojnog osposobljavanja prema Zakonu o obrani.,"POSTUPAK. Zahtjev za odgodu podnosi se nadležnom područnom odjelu za poslove obrane u roku od osam dana od dana primitka poziva na temeljno vojno osposobljavanje. Može se podnijeti osobno, preporučenom pošiljkom ili elektroničkim putem. Uz zahtjev se prilažu odgovarajući dokazi (npr. dokaz o nezaposlenosti ostalih članova obitelji, potvrda o datumu sklapanja braka, izvadak iz matice umrlih, dokaz o trudnoći, potvrda o registraciji obrta). RAZLOZI ZA ODGODU. 1. ŠKOLOVANJE. Novak upisan na visoko učilište dostavlja potvrdu o upisu najkasnije do 31. listopada tekuće godine, a odgoda traje najdulje do 30. rujna godine u kojoj navršava 29 godina. 2. OSOBNI I OBITELJSKI RAZLOZI. Odgoda se može odobriti ako u kućanstvu nema drugog člana koji privređuje (najdulje godinu dana), ako je novak vježbenik ili se prvi put zaposlio (do isteka staža/probnog rada), ako u kućanstvu ima članove kojima je prijeko potrebna tuđa pomoć i njega, ako se iz istog kućanstva istodobno upućuju dva ili više članova, ako ima određen datum sklapanja braka (najdulje tri mjeseca), ako očekuje rođenje djeteta (najdulje godinu dana), ako je nastupila smrt u užoj obitelji (do idućeg roka za upućivanje) te ako je otvorio obrt ili samostalnu djelatnost (najdulje godinu dana). 3. SPORTAŠI. Zbog sudjelovanja na svjetskim i europskim prvenstvima te državnim prvenstvima odgoda se može odobriti najdulje do jedne godine. ODLUČIVANJE. O zahtjevu odlučuje nadležni područni odjel za poslove obrane odlukom. Kod odgode zbog školovanja i sporta (čl. 21.k) odluka mora sadržavati elemente rješenja prema Zakonu o općem upravnom postupku; protiv nje nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom RH, koji odlučuje u roku od 90 dana. Odluka o odgodi sadrži dan, mjesec i godinu do kada se osposobljavanje odgađa","Prema **Zakonu o obrani** (Narodne novine broj 76/05 i izmjene), postupak i uvjeti za odgodu temeljnog vojnog osposobljavanja regulirani su člancima 89., 90. i 91.  
+
+### **Postupak za odgodu:**  
+1. **Članak 89.** – Osoba koja želi odgodu mora podnijeti zahtjev nadležnom tijelu najkasnije **30 dana prije roka za polazak na osposobljavanje**.  
+2. **Članak 90.** – Zahtjev se prosljeđuje zapovjedniku postrojbe ili ustanove gdje bi se trebalo provesti osposobljavanje.  
+3. **Članak 91.** – Povjerenstvo osniva zapovjednik postrojbe radi ocjenjivanja opravdanosti odgođenog razloga (npr. obrazovanje, zdravstveno stanje).  
+
+### **Uvjeti za odgodu:**  
+- **Obrazovanje:** Ako osoba pohađa fakultet, strukovnu školu ili poslijediplomski studij, može zatražiti odgodu dok završi studij.  
+- **Zdravstveni razlozi:** Ako postoji medicinska indikacija (npr. kronična bolest), potrebna je potvrda liječnika.  
+- **Društveni razlozi:** Npr. skrb o teškoj bolesnoj osobi ili skrbi o maloljetnoj djeci.  
+
+### **Nadležno tijelo:**  
+- **Zapovjednik postrojbe** donosi odluku nakon preporuke povjerenstva.  
+
+Napomena: Ova informacija temelji se na člancima Zakona o obrani koji reguliraju odgodu osposobljavanja. Za detaljnije upute preporučuje se kontaktirati **Hrvatske oružane snage** ili **MUP RH**.",52.69,"Prema **Zakonu o obrani** (NN 136/25), postupak i uvjeti za odgodu temeljnog vojnog osposobljavanja regulirani su u **Članku 21.**  
+
+### **Postupak:**  
+1. **Podnošenje zahtjeva:**  
+   - Zahtjev za odgodu podnosi se **nadležnom područnom odjelu za poslove obrane** u roku od **osam dana** od dana primitka poziva za temeljno vojno osposobljavanje.  
+   - Može se podnijeti **osobno, preporučenom pošiljkom ili elektroničkim putem**.  
+
+2. **Potrebni prilozi:**  
+   - Dokaz o **nezaposlenosti ostalih članova obitelji** (npr. potvrde o zapošljavanju).  
+   - Ugovor o radu / rješenje o radnom odnosu / potvrda o osiguranju (ako se odgoda traži zbog zaposlenja kao vježbenik).  
+   - Potvrda nadležnog tijela za socijalnu skrb (ako su u kućanstvu ovisni članovi).  
+   - Izvadak iz matice umrlih (ako je došlo do smrti u obitelji).  
+   - Potvrda o registraciji obrta / djelatnosti (ako je otvoren obrt).  
+
+### **Uvjeti za odgodu:**  
+- **Smrt u užoj obitelji** – odgoda do sljedećeg roka za upućivanje.  
+- **Otvaranje obrta / samostalne djelatnosti** – odgoda do godinu dana od registracije.  
+- **Zapošljavanje kao vježbenik / prvo zaposlenje** – odgoda do završetka vježbeničkog staža / isteka probnog rada.  
+- **Dijete u kućanstvu** – odgoda do godinu dana od dolaska na osposobljavanje.  
+- **Bračni savez** – odgoda do tri mjeseca.  
+- **Trudnoća / rađanje djeteta** – odgoda do godinu dana.  
+- **Visoko obrazovanje** – odgoda ako je student, do 30. rujna godine kad navrši 29 godina.  
+- **Sportska natjecanja** – odgoda do godinu dana, ako postoji zahtjev Hrvatskog olimpijskog odbora.  
+
+### **Odluka:**  
+Nadležno tijelo donosi odluku u roku od osam dana od podnošenja zahtjeva.  
+
+Napomena: Informacije su preuzete iz dostupnih dijelova Zakona o obrani (NN 136/25). Za detaljnije informacije preporučuje se konzultiranje cjelovitih tekstova zakona.",74.68,"Prema **Zakonu o obrani** (NN 136/25), članak 25.a definira uvjete i postupak za odgodu temeljnog vojnog osposobljavanja. Evo ključnih elemenata:  
+
+### **1. Opći uvjeti za odgodu**  
+Ročnik može dobiti odgodu ako ispunjava barem jedno sljedeće:  
+- **Bolest** – do oporavka (potrebna liječnička potvrda).  
+- **Situacija u kućanstvu** – npr. smrt člana obitelji, teška bolest člana kućanstva, neodgodivi poslovi (npr. poljoprivreda) itd. (potrebni dokazi poput potvrde škole, certifikata za poljoprivredu).  
+- **Akademsko obrazovanje** – ako je sprečan polaganje ispita ili završetak godine (potvrda fakulteta).  
+- **Planirano vjenčanje** – do datuma vjenčanja.  
+- **Rodiljni/roditeljski dopust** – za muškarce (potvrda HZZO-a).  
+
+### **2. Postupak za dobivanje odgode**  
+1. **Podnesite zahtjev** – putem obrasca dostupnog na područnom odjelu za poslove obrane.  
+2. **Priložite dokaze** – ovisno o razlogu (liječnička potvrva, potvrda fakulteta, certifikat poljoprivrede itd.).  
+3. **Prihvata odluka** – Ministarstvo obrane donosi odluku najkasnije 40 dana prije roka osposobljavanja (članak 7. Pravilnika o temeljnom vojnom osposobljavanju).  
+
+### **3. Trajanje odgode**  
+Trajanje ovisi o razlogu:  
+- Do oporavka (bolest).  
+- Dok traje situacija u kućanstvu (npr. do kraja godine za studente).  
+- Do datuma vjenčanja.  
+
+Za detaljnije informacije pogledajte **članak 25.a Zakona o obrani** i **pravilnik o temeljnom vojnom osposobljavanju**.",63.49,0.116,0.9040321111679077,0.30536912751677847,0.9286777973175049,0.11026615969581749,0.9082134962081909,0.6594275236129761,0.7296470999717712,0.6802069544792175
+9,jednostavna_pitanja,Kada nastaje vojna obveza za državljane Republike Hrvatske?,Vojna obveza nastaje u kalendarskoj godini u kojoj državljanin Republike Hrvatske navršava 18 godina života.,"Vojna obveza za građane Republike Hrvatske počinje rođenjem djeteta muškog spola (muškarci). Prema članku **6.** Zakona o vojnoj obvezi (Narodne novine br. 98/07), muškarci su dužni služiti vojnu obvezu od 18. do 30. godine života. Međutim, prema članku **7.** istog zakona, rok započinjanja vojne obaveze može se produžiti ili skratiti ovisno o potrebama vojske.  
+
+Za dodatne informacije pogledajte članak **1.** Pravilnika o provedbi Zakona o vojnoj obvezi (NN br. 112/07) koji detaljnije regulira postupak utvrđivanja početka vojne obaveze.  
+
+Napomena: Ova informacija temelji se na Zakonu o vojnoj obvezi i pripadajućim pravilnicima. U slučaju promjene zakona, potrebno je provjeriti najnoviju verziju propisa.",26.76,"Vojna obveza za državljane Republike Hrvatske **nastupa u kalendarskoj godini u kojoj navršavaju 18 godina života**, prema članku 19. Zakona o obrani (NN 73/13, 30/18, 136/25).  
+
+Napomena: Ova informacija temelji se isključivo na dostupnom kontekstu.",10.75,"Vojna obveza za državljane Republike Hrvatske **nastupa u kalendarskoj godini u kojoj navršavaju 18 godina života** [Zakon o obrani 2025, Članak 19].  
+
+Napomena: Ova informacija temelji se isključivo na dostupnim dokumentima.",8.99,0.08823529411764705,0.9124395847320557,0.3793103448275862,0.9415345191955566,0.4313725490196078,0.9461238384246826,0.6438993215560913,0.7664011716842651,0.7748513221740723
+10,jednostavna_pitanja,Koliko traje temeljno vojno osposobljavanje?,Temeljno vojno osposobljavanje traje dva mjeseca.,"Temeljno vojno osposobljavanje u Hrvatskoj traje **60 dana**.  
+
+Izvor: *Zakon o vojnim obvezama* (čl. 78).  
+Dodatno, Pravilnik o provedbi Zakona o vojnim obvezama (NN 9/04) detaljnije regulira trajanje i sadržaj osposobljavanja.  
+
+Napomena: ako se radi o profesionalcima ili pričuvnicima, rok može varirati ovisno o kategoriji.",13.83,Temeljno vojno osposobljavanje traje dva mjeseca. (izvor: Zakon_o_obrani_2025.,4.42,"Temeljno vojno osposobljavanje traje **30 dana**.  
+
+Izvor: [Pravilnik o temeljnom vojnom osposobljavanju, Članak 20](https://pravilnikik.pravactv.",11.21,0.14545454545454545,0.8865629434585571,0.7058823529411764,0.9635752439498901,0.3478260869565218,0.907921314239502,0.6980053186416626,0.845561146736145,0.7359167337417603
+11,jednostavna_pitanja,Tko je vrhovni zapovjednik Oružanih snaga Republike Hrvatske?,Predsjednik Republike Hrvatske je vrhovni zapovjednik Oružanih snaga Republike Hrvatske.,"Prema **Zakonu o obrani** (Narodne novine br. 97/02), **Sabor Republike Hrvatske** ima ulogu vrhovnog zapovjednika Oružanih snaga RH. Međutim, u praksi, predsjednik Vlade RH obavlja funkciju vrhovnog zapovjednika kada Sabor ne zasjeda ili prema odluci Sabora.  
+
+Detaljnije:  
+- Članak 6. Zakona o obrani: *""Vrhovno zapovjedništvo Oružanih snaga Republike Hrvatske obavlja Vlada Republike Hrvatske.""*  
+- Prema Ustavu RH (čl. 89.), predsjednik Vlade može biti imenovan vrhovnim zapovjednikom po odluci Sabora.  
+
+Napomena: Ova informacija temelji se na zakonskim odredbama, a ne na trenutnoj političkoj praksi.",22.16,"Prema **Članku 100.** **Ustava Republike Hrvatske 2018**, vrhovni zapovjednik Oružanih snaga Republike Hrvatske je **Predsjednik Republike**. On imenuje i razrješuje vojne zapovjednike, a u slučaju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti države može, uz supotpis predsjednika Vlade, narediti uporabu oružanih snaga čak i ako nije proglašeno ratno stanje.  
+
+Detaljnije, prema **Zakonu o obrani 2025**, **Članak 47.** dodatno definira ulogu Predsjednika Republike kao onoga tko ""naređuje uporabu i zapovijeda Oružanim snagama u ratnom stanju"".  
+
+Izvor:  
+- [Ustav Republike Hrvatske 2018](https://www.hins.hr/) – **Članak 100.**  
+- [Zakon o obrani 2025](https://pravosudni.portal.hr/) – **Članak 45., 46., 47.**  
+
+Napomena: Ova informacija temelji se isključivo na dostupnim ustavnim i zakonskim izvorima.",33.77,"Vrhovni zapovjednik Oružanih snaga Republike Hrvatske je Predsjednik Republike Hrvatske. Ova informacija proizlazi iz Ustava Republike Hrvatske iz 2018., Članak 100, koji navodi da ""Predsjednik Republike vrhovni je zapovjednik oružanih snaga Republike Hrvatske.",8.14,0.1414141414141414,0.9061093330383301,0.13846153846153844,0.9165432453155518,0.43478260869565216,0.9471015930175781,0.6852758526802063,0.6630541682243347,0.81526780128479
+12,jednostavna_pitanja,Koje su tri grane Oružanih snaga Republike Hrvatske?,"Tri grane Oružanih snaga Republike Hrvatske su: Hrvatska kopnena vojska, Hrvatska ratna mornarica i Hrvatsko ratno zrakoplovstvo.","Tri glavne grane Oružanih snaga Republike Hrvatske su:  
+
+1. **Hrvatska kopnena vojska** (HRZ) – regulirana člankom 6. Zakona o obrani.  
+2. **Hrvatska ratna mornarica** (HRM) – regulirana člankom 7. istog zakona.  
+3. **Hrvatsko ratno zrakoplovstvo i protuzračna obrana** (HRZ i PZO) – regulirana člankom 8. Zakona o obrani.  
+
+Sve tri grane zajedno čine jedinstveni sustav Oružanih snaga RH, a svaka ima svoje specifične zadaće i ustrojbene jedinice. Nadležno tijelo za upravljanje tim snagama je Ministarstvo obrane RH.",21.24,"Tri grane Oružanih snaga Republike Hrvatske su:  
+1. **Hrvatska kopnena vojska**  
+2. **Hrvatska ratna mornarica**  
+3. **Hrvatsko ratno zrakoplovstvo**  
+
+(Izvor: [Zakon o obrani 2025], Članak 43.",9.61,"Tri grane Oružanih snaga Republike Hrvatske su:
+
+1. **Hrvatska kopnena vojska** (Clanak 41, Stavak 3)
+2. **Hrvatska ratna mornarica** (Clanak 41, Stavak 3)
+3.",11.42,0.3469387755102041,0.9366884231567383,0.7555555555555556,0.9569916725158691,0.6511627906976745,0.9391709566116333,0.7516279816627502,0.8223859071731567,0.7737262845039368
+13,jednostavna_pitanja,Kada prestaje vojna obveza za muškarce?,Vojna obveza za muškarce prestaje na kraju kalendarske godine u kojoj navršavaju 55 godina života.,"Vojna obveza za muškarce u Republici Hrvatskoj prestaje nakon izvršene osnovne vojne službe ili alternativne službe (npr. civilne službe). Prema **Zakonu o službi u Oružanim snagama RH** (NN br. 97/06), trajanje osnovne vojne službe iznosi 6 mjeseci, a nakon toga osoba prelazi u pričuvu.  
+
+Međutim, prema **Narodnoj odluci o vojnom obvezniku** (NN br. 81/06), pojedinci mogu biti pozvani na osposobljavanje tijekom godina koje su u pričuvnom statusu (npr. godišnje osposobljavanje traje do 10 dana). Vojno-redarstveni rok (priča) može se produžiti ovisno o potrebama države.  
+
+Za točne podatke o pojedincu (npr. datum završetka služe) potrebno je konzultirati evidencije MORH-a ili Vojnog upisa.  
+
+Napomena: Ova informacija temelji se na općem znanju o hrvatskom zakonu o vojnoj obvezi. Za specifične slučajeve preporučuje se provjera službenih izvora.",31.99,"Vojna obveza za muškarce prestaje prema članku 20. Zakona o obrani 2025:  
+- Na kraju kalendarske godine u kojoj navršavaju **55 godina** života.  
+- Ako su ocijenjeni nesposobnima za vojnu službu.  
+- Na temelju otpusta iz hrvatskog državljanstva.  
+
+Iznimno, prema članku 20. stavku 2., vojna obveza prestaje za viših časnika i generale/admirale posljednjeg dana kalendarske godine u kojoj navršavaju **65 godina** života.  
+
+Izvor: [Zakon o obrani 2025](https://www.narodne-novine.hr/), članci 20. i 21.",22.47,"Vojna obveza za muškarce prestaje prema **Zakonu o obrani** (Clanak 20):  
+- Na kraju kalendarske godine u kojoj navršavaju **55 godina života**, ako su ocijenjeni nesposobnima za vojnu službu.  
+- Posebno za **više časnike i generale/admirale**, vojna obveza prestaje posljednjeg dana kalendarske godine u kojoj navršavaju **65 godina života**.  
+
+Dodatno, prema **Zakonu o službi u Oružanim snagama RH** (Clanak 210), vojni rok započinje u kalendarskoj godini u kojoj građanin navršava **18 godina života**.  
+
+Napomena: Informacije su preuzete isključivo iz navedenih članaka zakona.",23.93,0.09523809523809523,0.8742029666900635,0.3505154639175258,0.9243850111961365,0.3119266055045872,0.9194368124008179,0.658672034740448,0.727164089679718,0.7389219403266907
+14,jednostavna_pitanja,Tko imenuje načelnika Glavnog stožera Oružanih snaga?,Načelnika Glavnog stožera Oružanih snaga imenuje Predsjednik Republike Hrvatske na prijedlog Vlade Republike Hrvatske i nakon pribavljenog mišljenja Odbora za obranu Hrvatskoga sabora.,"Načelnika Glavnog stožera Oružanih snaga Republike Hrvatske imenuje Vlada Republike Hrvatske na prijedlog ministra obrane.  
+
+**Temeljno pravo:**  
+- **Zakon o obrani (Narodne novine broj 97/02)** – Članak 68.  
+- **Zakon o službi u Oružanim snagama RH (NN br. 109/02)** – Ne sadrži izravnu odredbu o imenovanju načelnika GS OSRH, ali se odnosi na hijerarhiju zapovjedništva.  
+
+Napomena: Prema Ustavu RH (NN br. 1/90), Vlada ima ovlast predlaganja kandidata za visoke vojne dužnosti nakon savjetovanja s relevantnim odborom Sabora.",21.56,"Načelnik Glavnog stožera Oružanih snaga imenuje se na razdoblje od četiri godine i ne može biti ponovno imenovan. Prema članku 4. Pravilnika o načinu i postupku imenovanja načelnika Glavnog stožera Oružanih snaga Republike Hrvatske, koji je donesen temeljem članka 49. Zakona o obrani, načelnik Glavnog stožera imenuje se na način i po postupku koji se utvrđuje Pravilnikom. Međutim, prema članku 49. Zakona o obrani, ustroj Glavnog stožera propisuje Predsjednik Republike na prijedlog načelnika Glavnog stožera i uz suglasnost ministra obrane. Dakle, iako Pravilnik određuje detaljnije procedure, Zakon o obrani daje ključne ovlasti predsjedniku republike i ministru obrane u procesu imenovanja načelnika Glavnog stožera.",23.1,"Načelnik Glavnog stožera Oružanih snaga imenuje se na razdoblje od četiri godine i ne može biti ponovno imenovan. Načelnik Glavnog stožera imenuje se na razdoblje od četiri godine i ne može biti ponovno imenovan.  
+
+**Izvor:** [Zakon o obrani 2025, Članak 4](https://www.narodne-novine.",12.53,0.2857142857142857,0.9145141839981079,0.2,0.9273636937141418,0.25316455696202533,0.8952503204345703,0.7282577753067017,0.743272602558136,0.6714324355125427
+15,jednostavna_pitanja,Koliko traje mandat načelnika Glavnog stožera?,Načelnik Glavnog stožera imenuje se na razdoblje od četiri godine i bez mogućnosti reizbora.,"Mandat načelnika Glavnog stožera Oružanih snaga Republike Hrvatske traje **4 godine** (članak 70. Zakona o obrani).  
+
+Napomena: Ova informacija temelji se na Zakonu o obrani (Narodne novine 89/06) i ne zahtijeva dodatnu potvrdu iz konteksta pitanja.",9.82,"Mandat načelnika Glavnog stožera traje **4 godine**, kako je navedeno u **Članku 15. stavku 4.** Zakona o obrani 2025.  
+
+Napomena: Ova informacija nije pronađena u dostupnim dokumentima.",8.13,"Mandat načelnika Glavnog stožera traje **4 godine**.  
+
+Izvor: [Zakon o obrani 2025, Članak 14](https://www.zakonyprolidi.",8.07,0.2456140350877193,0.8867114186286926,0.21276595744680848,0.9045501947402954,0.27777777777777773,0.8997948169708252,0.6975241899490356,0.7025955319404602,0.6759990453720093
+16,jednostavna_pitanja,Što je temeljna svrha obrane Republike Hrvatske?,"Temeljna svrha obrane je očuvanje suvereniteta, neovisnosti i teritorijalne cjelovitosti Republike Hrvatske.","Temeljna svrha obrane Republike Hrvatske definirana je u **Zakonu o obrani** (Narodne novine br. 76/05). Prema članku 1., svrha obrane jest ""zaštita suvereniteta, teritorijalne cjelovitosti i političke neovisnosti Republike Hrvatske te očuvanje mira i stabilnosti"".  
+
+Dodatno, prema članku 2. istog zakona, obrana uključuje i zaštitu građana, imovine i ključnih infrastrukturnih objekata od vanjskih i unutarnjih prijetnji. Nadležno tijelo za provedbu ove politike je **Ministarstvo obrane RH**.  
+
+Napomena: ova informacija temelji se isključivo na Zakonu o obrani.",20.08,"Temeljna svrha obrane Republike Hrvatske jest očuvanje suvereniteta, neovisnosti i teritorijalne cjelovitosti Republike Hrvatske. Ova svrha je definirana u **Članku 2. stavku 1.** **Zakona o obrani 2025.**  
+
+Napomena: ako postoji dodatni kontekst koji treba uzeti u obzir, molimo pošalji ga.",11.36,"Temeljna svrha obrane Republike Hrvatske jest osigurati suverenitet, neovisnost i teritorijalnu cjelovitost zemlje, kao i zaštitu građana i njihovog života, slobode i imovine. Ova svrha je definirana u članku 3. Zakona o obrani, gdje se navodi da obrana uključuje pripremu, uporabu i korištenje snaga i sredstava u ratnom stanju, stanju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti Republike Hrvatske i miru.",15.1,0.20202020202020202,0.9193172454833984,0.43636363636363634,0.9222811460494995,0.23076923076923078,0.9464876651763916,0.7284773588180542,0.7858099937438965,0.7680402994155884
+17,jednostavna_pitanja,Do koje dobi novak može biti upućen na temeljno vojno osposobljavanje?,Novak može biti upućen na temeljno vojno osposobljavanje do isteka 30 godina života.,"Prema **Zakonu o službi u Oružanim snagama Republike Hrvatske** (Narodne novine br. 97/06), članku 8., novaci mogu biti upućeni na temeljno vojno osposobljavanje do navršene 30. godine života. Međutim, postoje iznimke za pripadnike pričuve ili dragovoljce koji se regrutiraju nakon te dobne granice.  
+
+Nadležno tijelo za provedbu ovog postupka je **Ministarstvo obrane RH** putem ustanova poput **Kralješnice vojne škole ""Ban Josip Jelačić""**.  
+
+Napomena: Informacija temelji se na važećem zakonu, a dodatne pojedinosti o izuzecima mogu se utvrditi kod nadležnog vojnog centra.",21.82,"Novak može biti upućen na temeljno vojno osposobljavanje do isteka 30 godina života. To je definirano u **Članku 21.** stavku (3) **Zakona o obrani 2025**, gdje je navedeno da se ""Iznimno od stavka 1. ovoga članka, na temeljno vojno osposobljavanje upućuju se i novaci stariji od 19 godina, a najkasnije do isteka 30 godina života...""  
+
+Dodatno, prema istom članku, područjački odjeli za poslove obrane moraju osigurati da se novaci koji su dužni pristupiti vojsci to učine prije nego što navrše 30 godina.  
+
+Ako postoji dodatni kontekst (npr. pravila o produženju roka), molimo vas da ga dostavite kako bih mogao ažurirati odgovor.",25.55,"Novak može biti upućen na temeljno vojno osposobljavanje do navršenih **29 godina** starosti. Ova granica je definirana u članku 24.k Zakona o obrani 2025. godine.  
+
+Ako postoji dodatni kontekst ili pitanja vezana uz ovu temu, slobodno pitajte!",10.49,0.1651376146788991,0.8914097547531128,0.2380952380952381,0.9282735586166382,0.4285714285714285,0.9318290948867798,0.7100948095321655,0.7356048822402954,0.7610097527503967
+18,jednostavna_pitanja,Tko donosi odluku o mobilizaciji Oružanih snaga?,Odluku o mobilizaciji Oružanih snaga donosi Predsjednik Republike na prijedlog ministra obrane.,"Prema **Zakonu o obrani** (Narodne novine br. 97/02., 86/04., 133/06., 149/08., 132/10., 149/10., 132/11., 149/11., 132/12., 149/12., 132/13., 149/13., 132/14., 149/14., 132/15., 149/15., 132/16., 149/16.) i **Zakonu o službi u Oružanim snagama RH** (NN br. 132/11.), odluku o mobilizaciji donosi **Vlada Republike Hrvatske**.  
+
+Specifični članci:  
+- Članak 10. Zakona o obrani definira ovlasti Vlade u području obrane.  
+- Pravilnik o provedbi Zakona o službi u OSRH (NN br. 149/11.) dodatno regulira postupke mobilizacije.  
+
+Napomena: Ova informacija temelji se na važećim zakonskim aktima.",36.47,"Prema **Zakonu o obrani** (Članak 46., stavak 1.), odluku o uporabi Oružanih snaga donose sljedeća tijela:  
+- **Hrvatski sabor**  
+- **Predsjednik Republike**  
+- **Predsjednik Vlade**  
+- **Ministar obrane**  
+
+To uključuje i odluku o mobilizaciji, koja se temelji na ustavnim ovlastima Predsjednika Republike kao vrhovnog zapovjednika (**Ustav RH, Članak 100.**).  
+
+Detaljnije, prema **Zakonu o obrani** (Članak 58.), Vlada ili ministar obrane također mogu donositi odluke o korištenju Oružanih snaga, uključujući mobilizaciju.  
+
+Ako postoji izvanredna situacija (npr. neposredna ugroženost države), Predsjednik Republike može samostalno naručiti uporabu snaga (**Ustav RH, Članak 100.**).  
+
+Krajnja nadležnost za provođenje mobilizacije ostaje kod **Glavnog stožera Oružanih snaga** (**Zakon o obrani, Članci 46. i 58.**).",33.2,"Odluku o mobilizaciji Oružanih snaga donosi **Vlada** ili **ministar obrane** u skladu s odredbama Zakona o obrani.  
+
+Izvor: [Zakon o obrani 2025, Članak 74.](https://www.novo-zakonodavstvo.",10.58,0.09999999999999999,0.8868600130081177,0.13636363636363635,0.9087056517601013,0.380952380952381,0.9189415574073792,0.6068370938301086,0.6802589297294617,0.7457892298698425
+19,jednostavna_pitanja,Kada prestaje vojna obveza za žene?,Vojna obveza za žene prestaje na kraju kalendarske godine u kojoj navršavaju 50 godina života.,"Žene u Republici Hrvatskoj imaju pravo na odbijanje vojne službe zbog vjerskih ili uvjerenja, prema članku **6. stavak 1.** Zakona o vojnoj obvezi (Narodne novine br. 97/08). Međutim, ako se ženska osoba odluči prijaviti za vojnu službu, njezina vojna obveza traje dok joj to dopušta zdravstveno stanje i zakonski rok.  
+
+Za razliku od muškaraca, koji su dužni odslužiti vojni rok do određene dobi (obično do 30 godina), žene mogu biti pozvane na služenje samo ako se prijave. Prema članku **10.** istog zakona, rok služenja za žene može varirati ovisno o potrebama vojske.  
+
+Napomena: Ova informacija nije pronađena u dostupnim dokumentima.",22.96,"Prema Zakonu o obrani 2025., članku 20.:  
+**Žene prestaju imati vojnu obvezu nakon što navrše 50 godina života.**  
+
+To znači da se njihova vojna obveza automatski ukida na kraju kalendarske godine u kojoj napune 50 godina.  
+
+Ostale mogućnosti prestanka vojne obveze uključuju:  
+- Prestanak zbog nesposobnosti za vojnu službu,  
+- Prestanak zbog gubitka hrvatskog državljanstva,  
+- Za visoke časnike i generale/admirale, rok produžuje se do 65. godine života.  
+
+Izvor: *Zakon o obrani 2025*, članak 20.",21.09,"Prema Zakonu o obrani 2025., vojna obveza za žene prestaje kada navrše **50 godina** života.  
+
+Izvor: [Zakon o obrani 2025, Članak 20](https://www.nacionalno-sigurnosno-pravodavno-informaciono-podrstavanje.hr/documents/zakon_o_obrani_2025.pdf), stavak (1).",13.84,0.0916030534351145,0.8742014169692993,0.2291666666666667,0.9179468154907227,0.32727272727272727,0.9314876794815063,0.6417040228843689,0.7018980979919434,0.667470395565033
+20,jednostavna_pitanja,U kojoj godini života se državljanin RH uvodi u vojnu evidenciju?,Državljanin Republike Hrvatske uvodi se u vojnu evidenciju u kalendarskoj godini kada navrši 18 godina života.,"Glede pitanja o godini života u kojoj se građanin RH upisuje u vojnu evidenciju, valja napomenuti da se to obično događa nakon navršenog 18. godine života. Međutim, detaljnije odredbe o tome nalaze se u Zakonu o obveznim vojnim vježbama (NN br. 9/07) te Pravilniku o provedbi Zakona o obveznim vojnim vježbama (NN br. 6/08).  
+
+Prema članku 1. stavku 1. Pravilnika, osobe koje su obvezne na vojne vježbe moraju biti stare između 18 i 30 godina u trenutku početka vježbi. Dakle, u vojnu evidenciju građani RH ulaze najranije s navršenih 18 godina, ali aktivno sudjelovanje započinje po završetku školovanja ili kad ih nadležno tijelo pozove na vojne vježbe.  
+
+Za dodatne informacije preporučujem kontaktiranje Hrvatskog ratnog doma ili nadležnog županijskog inspektorata za obavezne vojne vježbe.",29.28,"Državljanin Republike Hrvatske uvodi se u vojnu evidenciju u kalendarskoj godini kada navrši **18 godina** života.  
+
+Ako iz bilo kojeg razloga to ne učini u toj godini, može se unijeti do prestanka vojne obveze prema članku 20. Zakona o obrani.  
+
+Izvor: [Zakon o obrani 2025], članak 21.(1).",12.24,"Građanin Republike Hrvatske uvodi se u vojnu evidenciju u kalendarskoj godini u kojoj navršava **18 godina** života.  
+
+Izvor: [Zakon o obrani 2025, Članak 19](https://www.narodnonovine.",10.32,0.09815950920245398,0.9144275188446045,0.5142857142857142,0.9385058879852295,0.5957446808510638,0.9412384033203125,0.658810019493103,0.805874764919281,0.793989896774292
+21,jednostavna_pitanja,Tko proglašava ratno stanje u Republici Hrvatskoj?,Ratno stanje u Republici Hrvatskoj proglašava Hrvatski sabor.,"Predsjednik Republike Hrvatske proglašava ratno stanje u Republici Hrvatskoj sukladno članku **98.** Ustava Republike Hrvatske.  
+
+Napomena: Ova informacija temelji se na ustavnom pravu, a dodatne procedure i ovlasti utvrđene su posebnim zakonskim aktima (npr. Zakonom o obrani).",9.05,Hrvatski Sabor proglašava ratno stanje u Republici Hrvatskoj.  (izvor: Ustav Republike Hrvatske 2018.docx - Članak 100.,5.42,"Ratno stanje u Republici Hrvatskoj proglašava Hrvatski sabor. Međutim, prema Ustavu Republike Hrvatske (Članak 100), u slučaju neposredne ugroženosti neovisnosti, jedinstvenosti i opstojnosti države, Predsjednik Republike može, uz supotpis predsjednika Vlade, narediti uporabu oružanih snaga iako nije proglašeno ratno stanje.",10.29,0.20833333333333334,0.8943568468093872,0.3846153846153846,0.9523311853408813,0.3157894736842105,0.9022613763809204,0.7105569243431091,0.7651570439338684,0.750274121761322
+22,jednostavna_pitanja,Koliko dana prije upućivanja ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje?,Ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje u pravilu 40 dana prije upućivanja kandidata.,"Napomena: ova informacija nije pronađena u dostupnim dokumentima.  
+Prema općem znanju, odluka ministra obrane o upućivanju kandidata na temeljno vojno osposobljavanje obično se donosi najkasnije **7 dana** prije početka osposobljavanja, kako bi se omogućio adekvatan vremenski rok za pripreme i obavještavanje kandidata.  
+Detaljnije odredbe mogu se naći u Pravilniku o provedbi Zakona o službi u Oružanim snagama RH (npr. članak 60.).",16.0,"Ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje najkasnije **25 dana** prije upućivanja.  
+
+Izvor: [Pravilnik o temeljnom vojnom osposobljavanju], Članak 20., Stavak 2.",8.99,Ministar obrane donosi odluku o upućivanju kandidata na temeljno vojno osposobljavanje najkasnije 25 dana prije datuma upućivanja. Ova informacija temelji se na članku 20. Pravilnika o temeljnom vojnom osposobljavanju.,8.76,0.26373626373626374,0.9375807046890259,0.6666666666666666,0.9360586404800415,0.6274509803921569,0.967004656791687,0.7405970096588135,0.8226854205131531,0.8603160381317139
+23,jednostavna_pitanja,Tko donosi program obuke ročnika na temeljnom vojnom osposobljavanju?,Program obuke ročnika na temeljnom vojnom osposobljavanju donosi načelnik Glavnog stožera Oružanih snaga Republike Hrvatske.,"Program obuke ročnika na temeljnom vojnom osposobljavanju donosi Ministarstvo obrane Republike Hrvatske, a točnije Glavno zapovjedništvo Oružanih snaga RH (GZ OSRH) kroz svoje ustrojbene jedinice, kao što su Vojne škole i ustanove zadužene za obuku.  
+
+Osnovu programa definiraju propisi poput **Zakona o službi u Oružanim snagama RH** (čl. 67.) te **Pravilnika o provedbi temeljnog vojnog osposobljavanja**. Nadležno tijelo za usklađivanje i provođenje programa je **Glavno stožerno vojno učilište ""Blago Zadro""**.  
+
+Napomena: Ova informacija temelji se na općem znanju o strukturi OSRH, a detaljniji dokumenti mogu biti dostupni samo putem službenih izvora.",24.98,Program obuke ročnika na temeljnom vojnom osposobljavanju donosi Ministarstvo obrane. (izvor: Zakon_o_sluzbi_u_Oruzanim_snagama_Republike_Hrvatske_2025.,7.84,"Program obuke ročnika na temeljnom vojnom osposobljavanju donosi **načelnik Glavnog stožera Oružanih snaga Republike Hrvatske**, prema članku 2. Pravilnika o temeljnom vojnom osposobljavanju.  
+
+Napomena: Ova informacija temelji se na članku 2. navedenog pravilnika.",10.21,0.192,0.9305987358093262,0.5500000000000002,0.9408684372901917,0.6785714285714285,0.9610044956207275,0.752129316329956,0.7887805104255676,0.83492112159729
+24,jednostavna_pitanja,Pred kim ročnici daju svečanu prisegu?,Ročnici daju svečanu prisegu pred ministrom obrane ili osobom koju on za to odredi.,"Ročnici (vojnici) u Hrvatskoj Oružanim snagama daju svečanu prisegu pred zapovjednikom postrojbe ili ustrojbene jedinice u kojoj služe. Prema **Zakonu o službi u Oružanim snagama RH** (čl. 60.), svečana prisega sastoji se od riječi:  
+*""Svećano obećavam da ću vjerno služiti Republici Hrvatskoj, poštovati Ustav i zakone te čuvati čast oružanih snaga.""*  
+
+Nadležno tijelo za provođenje ceremonije je zapovjednik postrojbe, a prisega se ponavlja svake godine tijekom vojne službe.",17.95,"Ročnici daju svečanu prisegu pred nadležno vojno tijelo ili zapovjednika postrojbe, prema članku 7. stavku 5. **Zakona o službi u Oružanim snagama Republike Hrvatske** (2025).  
+
+*Napomena: Ova informacija nije pronađena u dostupnim dokumentima.",9.26,Ročnici daju svečanu prisegu pred ministrom obrane ili osobom koju on za to odredi.,3.3,0.18,0.872374951839447,0.29090909090909095,0.8961039781570435,1.0,1.0,0.7037474513053894,0.7177519798278809,0.9999998807907104
+25,jednostavna_pitanja,Za koju vojnostručnu specijalnost se ročnici osposobljavaju na temeljnom vojnom osposobljavanju?,"Ročnici se osposobljavaju u temeljnim vojnim znanjima i sposobnostima u rodu pješaštva za streljačku specijalnost 11A, dužnost strijelca.","Na temeljnom vojnom osposobljavanju (TvOS) ročnici se osposobljavaju za osnovne vojnosnurajne specijalnosti kao što su:  
+- **Mehanizirana pješačka postrojba** (mehanizirane bojne),  
+- **Raketno-topničke postrojbe** (raketne i topničke jedinice),  
+- **Zrakoplovne postrojbe** (zrakoplovi i helikopteri),  
+- **Graničarske postrojbe** (granične jedinice).  
+
+Ovisno o potrebama OSRH, mogu se uključiti i druge specijalnosti poput inženjerije ili komunikacija. Osnovu čini članak **6. Zakona o službi u Oružanim snagama RH** koji definiše vojne stručne poslove.  
+
+Napomena: Ova informacija temelji se na općem znanju o TvOS-u, a točan popis može varirati prema godišnjim planovima OSRH.",28.04,"Ročnici se na temeljnom vojnom osposobljavanju osposobljavaju za vojnostručnu specijalnost **strijalac** (11A), dužnost strijelca, prema zadatcima i standardima definiranima u programu obuke ročnika na temeljnom vojnom osposobljavanju.  
+
+Izvor: [Pravilnik o temeljnom vojnom osposobljavanju], Članak 9. (1).",12.96,"Na temeljnom vojnom osposobljavanju, ročnici se osposobljavaju za vojnostručnu specijalnost ""strijelac"" (specijalnost 11A), prema zadatcima i standardima definiranima u programu obuke ročnika.",7.71,0.11111111111111112,0.8776939511299133,0.3174603174603175,0.9390895366668701,0.2916666666666667,0.9561371803283691,0.6613742113113403,0.7396556735038757,0.7852631211280823
+26,jednostavna_pitanja,Što čini mirnodopski sastav Oružanih snaga?,"Mirnodopski sastav Oružanih snaga čine: djelatne vojne osobe, službenici i namještenici, pričuvnici pozvani na službu u Oružane snage, ugovorni pričuvnici, kadeti te ročnici koji su pristupili temeljnom vojnom osposobljavanju.","Mirnodopski sastav Oružanih snaga Republike Hrvatske (OSRH) čini osoblje koje se bavi svakodnevnim aktivnostima i zadaćama izvan stanja rata ili neposredne opasnosti od rata. Ovaj sastav uključuje:  
+
+1. **Redovni kadar** – Vojnici, dočasnici i časnici koji su stalno zaposleni u OSRH. Njihove aktivnosti uključuju obuku, održavanje opreme, planiranje i provođenje redovnih vježbi te sudjelovanje u međunarodnim misijama.  
+2. **Reservisti** – Osobe s vojnom osnovom koje se regrutiraju tijekom kriza ili posebnih potreba.  
+3. **Civilno osoblje** – Građevinari, tehničari, administrativni radnici i drugi civili koji podržavaju funkcije OSRH.  
+
+Nadležno tijelo za organizaciju i upravljanje mirnodopskim sastavom je **Ministarstvo obrane RH**, a detalji su regulirani člancima **Zakona o obrani** (npr. članci 6., 7.) i **Pravilnika o ustroju OSRH**.  
+
+Napomena: Ova informacija temelji se na općem znanju o strukturi OSRH, a točni brojčani podaci mogu varirati ovisno o trenutnoj reorganizaciji.",36.29,"Mirnodopski sastav Oružanih snaga čini:  
+- **djelatne vojne osobe**,  
+- **državni službenici i namještenici** raspoređeni u Oružane snage,  
+- **pričuvnici pozvani na obuku**,  
+- **ugovorni pričuvnici**,  
+- **kadeti**, kao i  
+- **osobe koje su pristupile temeljnom vojnom osposobljavanju**.  
+
+Izvor: [Zakon o obrani 2025], Članak 43., Stavak 2. (NN 136/25).",18.29,"Mirnodopski sastav Oružanih snaga čini:  
+- **Djelatne vojne osobe** – profesionalni časnici i dočasnici.  
+- **Službenici i namještenici** – civilni zaposlenici u vojsci.  
+- **Pričuvnici pozvani na obuku** – obveznik koji prolazi redovitu obuku.  
+- **Ugovorni pričuvnici** – dobrovoljno regrutirani civili s vojnim ugovorom.  
+- **Kadeti** – polaznici vojne škole.  
+- **Ročnici** – građani koji su završili temeljno vojno osposobljavanje.  
+
+Izvor: [Zakon o obrani 2025, Članak 43](https://www.zakonyproljudi.",24.53,0.10695187165775401,0.9015473127365112,0.5617977528089887,0.9411383867263794,0.4807692307692308,0.9300550222396851,0.6752451062202454,0.8176531791687012,0.7617944478988647
+27,jednostavna_pitanja,Tko utvrđuje mirnodopski i ratni ustroj Oružanih snaga?,Predsjednik Republike utvrđuje mirnodopski i ratni ustroj Oružanih snaga te strukturu činova u mirnodopskom i ratnom ustroju Oružanih snaga.,"Mirnodopski i ratni ustroj Oružanih snaga Republike Hrvatske utvrđuje Vlada Republike Hrvatske.  
+
+Osnovu za to daje **Zakon o obrani** (Narodne novine, broj 76/02 i izmjene), a konkretno se odnosi na članak **8.**  
+
+Napomena: Ova informacija temelji se na hrvatskom zakonu, a ne na dostupnom kontekstu pitanja.",11.46,"Prema članku 4. Zakona o obrani (NN 136/25), **mirnodopski i ratni ustroj Oružanih snaga** utvrđuje **Predsjednik Republike**.  
+
+Detaljnije, prema članku 44. istog Zakona, Predsjednik Republike ima ovlast da ""utvrdi mirnodopski i ratni ustroj Oružanih snaga te strukturu činova u mirnodopskom i ratnom ustroju Oružanih snaga"".  
+
+Izvor: *Zakon o obrani 2025* (članci 43., 44.) – vidi priložene dokumente.",18.29,"Mirnodopski i ratni ustroj Oružanih snaga utvrđuje Predsjednik Republike Hrvatske. Ova informacija proizlazi iz **Članka 45.** Zakona o obrani 2025., gdje je navedeno da Predsjednik Republike utvrđuje mirnodopski i ratni ustroj Oružanih snaga te strukturu činova u mirnodopskom i ratnom ustroju Oružanih snaga.  
+
+Napomena: ova informacija nije pronađena u dostupnim dokumentima.",13.43,0.22535211267605632,0.8974545001983643,0.4761904761904761,0.9346253871917725,0.5569620253164557,0.92857825756073,0.706199586391449,0.786564290523529,0.8160602450370789
+28,jednostavna_pitanja,Koliko traje minimalno godišnji odmor djelatne vojne osobe?,Djelatna vojna osoba ima pravo na godišnji odmor u trajanju od najmanje četiri tjedna.,"Minimalno trajanje godišnjeg odmora djelatne vojne osobe određeno je člankom **80.** Zakona o službi u Oružanim snagama RH (Narodne novine br. 97/16). Prema tom članku, djelatna vojna osoba ima pravo na godišnji odmor u trajanju od najmanje **20 radnih dana** po kalendarskoj godini.  
+
+Dodatne pojedinosti o ostvarivanju prava na godišnji odmor regulirane su Pravilnikom o ostvarivanju prava na godišnji odmor djelatnika MORH-a (NN br. 112/16), koji detaljnije definira uvjete i rokove za isplatu naknade za godišnji odmor.  
+
+Napomena: ako se radi o vojnim osobama u pričuvnom sastavu ili pričuvnicima, pravo na godišnji odmor može biti drugačije uređeno ovisno o statusu i vrsti posla.",26.36,"Djelatna vojna osoba ima pravo na minimalni godišnji odmor u trajanju od **četiri tjedna** (20 radnih dana), kako je navedeno u **Članku 156. stavku 1.** Zakona o službi u Oružanim snagama Republike Hrvatske 2025.  
+
+Napomena: Ova informacija temelji se isključivo na dostupnom zakonu.",11.3,"Minimalno trajanje godišnjeg odmora djelatne vojne osobe iznosi **četiri tjedna** (16 radnih dana), kako je definirano u **Članku 156. stavku 1.** Zakona o službi u Oružanim snagama Republike Hrvatske 2025.  
+
+Iako se u istom članku dopušta povećanje trajanja odmora prema određenim kriterijima (npr. radni staž, dužnost, zdravlje), minimalna granica ostaje nepromijenjena.",15.14,0.1925925925925926,0.910946249961853,0.4516129032258065,0.9312804341316223,0.0821917808219178,0.918292224407196,0.7062862515449524,0.7732325196266174,0.685473620891571
+29,jednostavna_pitanja,Koliko dana plaćenog dopusta pripada djelatnoj vojnoj osobi u slučaju rođenja djeteta?,Djelatna vojna osoba ima pravo na plaćeni dopust od sedam radnih dana u slučaju rođenja djeteta.,"Djelatna vojna osoba ima pravo na **plaćeni roditeljski dopust** od **8 tjedana** nakon rođenja djeteta (članak 70. Pravilnika o ostvarivanju prava na roditeljski dopust).  
+
+Ako se radi o aktivnom sudioniku u službi (npr. časniku), dodatno može imati pravo na dodatni dopust prema članku 69. istog Pravilnika. Nadležno tijelo za izdavanje potvrda je **Zapovjednik postrojbe** ili **HRM** ovisno o statusu osobe.  
+
+Napomena: Informacije su preuzete iz Pravilnika o ostvarivanju prava na roditeljski dopust (NN 1/2019) koji se primjenjuje i na vojne osobe.",21.51,"Djelatnoj vojnoj osobi u slučaju rođenja djeteta pripada **sedam radnih dana** plaćenog dopusta, prema članku 159. stavku 1. točki a) Zakona o službi u Oružanim snagama Republike Hrvatske 2025.",8.13,"Djelatnoj vojnoj osobi u slučaju rođenja djeteta pripada **sedam radnih dana** plaćenog dopusta, kako je definirano u [Zakon o službi u Oružanim snagama Republike Hrvatske 2025, Članak 159](https://www.narodne-novine.hr/#_133086). Ovaj se broj dana odnosi na osnove poput rođenja djeteta, gdje je točno navedeno ""rođenja djeteta"" sa sedmodnevnim trajanjem.",14.96,0.24528301886792456,0.9176156520843506,0.22222222222222224,0.938873291015625,0.2,0.9310484528541565,0.7221077680587769,0.757942795753479,0.7291039824485779
+30,jednostavna_pitanja,Koliko dana plaćenog dopusta pripada djelatnoj vojnoj osobi u slučaju zaključenja braka?,Djelatna vojna osoba ima pravo na plaćeni dopust od sedam radnih dana u slučaju zaključenja braka.,"Djelatna vojna osoba ima pravo na **7 dana** plaćenog dopusta u slučaju zaključenja braka, sukladno članku **80. stavku 1. točki a)** Pravilnika o ostvarivanju prava na godišnji odmor i druge oblike odmora u Oružanim snagama Republike Hrvatske (NN br. 9/16).  
+
+Napomena: Ova informacija temelji se na važećim propisima koji reguliraju prava vojnog osoblja u Republici Hrvatskoj.",14.13,"Djelatna vojna osoba ima pravo na **sedam radnih dana** plaćenog dopusta u slučaju zaključenja braka, prema članku 159. stavku 1. točki a) Zakona o službi u Oružanim snagama Republike Hrvatske 2025.",8.59,"Djelatnoj vojnoj osobi u slučaju zaključenja braka pripada **sedam radnih dana** plaćenog dopusta, kako je definirano u **Članku 159.** Zakona o službi u Oružanim snagama Republike Hrvatske.  
+
+Ako okolnost nastupi u vrijeme korištenja godišnjeg odmora, privremene nesposobnosti ili odsutnosti iz službe iz drugih razloga, pravo na plaćeni dopust se ne ostvaruje.",14.1,0.30952380952380953,0.9387233257293701,0.5357142857142857,0.9425246119499207,0.15189873417721522,0.9209349155426025,0.7345398664474487,0.8089776635169983,0.7563202977180481
+31,jednostavna_pitanja,Što je vojna iskaznica i tko ju izdaje?,Vojna iskaznica je javna isprava kojom vojni obveznik dokazuje identitet dok izvršava vojnu obvezu. Izdaje ju nadležni područni odjel za poslove obrane koji vojnog obveznika vodi u evidenciji.,"Vojna iskaznica (VI) je osobna iskaznica vojnog obveznika koja potvrđuje njegovo pravo na služenje vojne službe te sadrži podatke o obveznim vojnim rokovanjima i statusu u sustavu Oružanih snaga Republike Hrvatske.  
+
+**Izdaje se od strane Ministarstva obrane RH** putem nadležnih jedinica, a to su:  
+- **Zapovjedništva postrojbi** (npr. pješačke brigade, topničke brigade itd.)  
+- **Regionalni centri za obuku i mobilizaciju**  
+- **Središnja uprava MORH-a** (za posebne slučajeve)  
+
+Iskaznica se izdaju nakon prijave na vojni rok ili u slučaju poziva na osposobljavanje/mobilizaciju. Za dodatne informacije pogledajte **Zakon o službi u Oružanim snagama RH (čl. 8–9)** i Pravilnik o vojnoj iskaznici (NN br. 107/20 od 2020.).",29.6,"Vojna iskaznica je javna isprava kojom vojni obveznik dokazuje identitet dok izvršava vojnu obvezu.  
+**Izdaje je:**  
+- **Nadležni područni odjel za poslove obrane** (članak 25., stavak 3. Zakona o obrani 2025).  
+- **Iznimno, postrojba Oružanih snaga razine samostalne bojne, njoj ravne ili više razine** ako ročnik ili pričuvnik izgube vojnu iskaznicu (članak 25., stavak 4.).  
+
+Dodatno, vojna iskaznica se izdaje:  
+- **Novaku pri pozivanju na temeljno vojno osposobljavanje** (članak 25., stavak 5.).  
+- **Kadetu i stipendistu nakon sklapanja ugovora** (članak 25., stavak 5.).  
+
+*Napomena: Ova informacija temelji se isključivo na članku 25. Zakona o obrani 2025.",30.7,"Vojna iskaznica je identifikacijski dokument koji dokazuje pripadnost Oružanim snagama Republike Hrvatske. Izdaje se vojnim osobama, službenicima i namještenicima u skladu sa Zakonom o obrani (članak 24). Ministar obrane propisuje oblik i sadržaj ove iskaznice pravilnikom. Ročnicima i pričuvnicima također se izdaje vojna iskaznica, ali prema posebnim propisima.",12.66,0.09271523178807947,0.9095953702926636,0.366412213740458,0.9082997441291809,0.13953488372093023,0.9421892166137695,0.6814889311790466,0.7198848724365234,0.6980361938476562
