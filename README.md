@@ -25,10 +25,15 @@ DzeToPishe/
 │   │   │   └── Zakon_o_sluzbi_u_Oruzanim_snagama_Republike_Hrvatske_2025.docx
 │   │   └── 03_Pravilnici/
 │   │       └── Pravilnik o temeljnom vojnom osposobljavanju.pdf
-│   └── pitanja_odgovori.json   # Isti skup u JSON formatu (3 kategorije)
+│   └── pitanja_odgovori.json
 ├── notebooks/
-│   ├── 2026 04 27 diplomskiRad_euroLLM.ipynb           # Glavni notebook — RAG chatbot
-│   └── 2026 04 27 diplomskiRad_euroLLM_evaluacija.ipynb # Evaluacija odgovora
+│   ├── diplomskiRad_01_Vanilla.ipynb
+│   ├── diplomskiRad_02_RAG.ipynb
+│   ├── diplomskiRad_03_GraphRAG.ipynb
+│   ├── Pospremanje_LLM.ipynb
+│   ├── python_colab_evaluacija.py         # čisti Colab dokument kako bi bio vidljiv na GitHub
+│   ├── python_colab_rad.py                # čisti Colab dokument kako bi bio vidljiv na GitHub
+│   └── diplomskiRad_04_evaluacija.ipynb
 ├── pdf_rad/
 │   └── Rad.pdf                  # Pisani diplomski rad
 ├── rezultati/
