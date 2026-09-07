@@ -1,0 +1,4 @@
+"metrika","chi2","df","p","kendall_w"
+"rouge",19.613,2,1e-04,0.316
+"cosine",21.355,2,0,0.344
+"bertscore",19.935,2,0,0.322

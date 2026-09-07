@@ -17,32 +17,53 @@ Chatbot temeljen na velikim jezičnim modelima (LLM) i RAG arhitekturi koji odgo
 ```
 DzeToPishe/
 ├── data/
-│   ├── raw/
-│   │   ├── 01_Ustav/
-│   │   │   └── Ustav Republike Hrvatske 2018.docx
-│   │   ├── 02_Zakoni/
-│   │   │   ├── Zakon_o_obrani_2025.docx
-│   │   │   └── Zakon_o_sluzbi_u_Oruzanim_snagama_Republike_Hrvatske_2025.docx
-│   │   └── 03_Pravilnici/
-│   │       └── Pravilnik o temeljnom vojnom osposobljavanju.pdf
-│   └── pitanja_odgovori.json
+│ ├── pitanja_odgovori.json
+│ └── raw/
+│ ├── 01_Ustav/
+│ │ └── Ustav Republike Hrvatske 2018.docx
+│ ├── 02_Zakoni/
+│ │ ├── Zakon_o_obrani_2025.docx
+│ │ └── Zakon_o_sluzbi_u_Oruzanim_snagama_Republike_Hrvatske_2025.docx
+│ └── 03_Pravilnici/
+│ └── Pravilnik o temeljnom vojnom osposobljavanju.pdf
 ├── notebooks/
-│   ├── diplomskiRad_01_Vanilla.ipynb
-│   ├── diplomskiRad_02_RAG.ipynb
-│   ├── diplomskiRad_03_GraphRAG.ipynb
-│   ├── Pospremanje_LLM.ipynb
-│   ├── python_colab_evaluacija.py         # čisti Colab dokument kako bi bio vidljiv na GitHub
-│   ├── python_colab_rad.py                # čisti Colab dokument kako bi bio vidljiv na GitHub
-│   └── diplomskiRad_04_evaluacija.ipynb
+│ ├── diplomskiRad_01_Vanilla.ipynb
+│ ├── diplomskiRad_02_RAG.ipynb
+│ ├── diplomskiRad_03_GraphRAG.ipynb
+│ ├── diplomskiRad_04_evaluacija.ipynb
+│ ├── Pospremanje_LLM.ipynb
+│ ├── python_colab_evaluacija.py # čisti Colab dokument kako bi bio vidljiv na GitHub
+│ └── python_colab_rad.py # čisti Colab dokument kako bi bio vidljiv na GitHub
 ├── pdf_rad/
-│   └── Rad.pdf                  # Pisani diplomski rad
-├── rezultati/
-│   ├── 2026 04 27 rezultati.csv                        # Odgovori chatbota
-│   ├── 2026 04 27 rezultati_euroLLM_evaluacija.csv     # Rezultati automatske evaluacije
-│   └── ukupna_evaluacija_chatbota.xlsx                 # Zbirna evaluacija
-├── .gitignore
-├── LICENSE
-└── README.md
+│ └── Rad.pdf # Pisani diplomski rad
+├── statistika/
+│ ├── agregirano_eksperti.csv
+│ ├── boxplot_eksperti.png
+│ ├── boxplot_latencija.png
+│ ├── claude_vs_gemini.csv
+│ ├── deskriptivna_auto_metrike.csv
+│ ├── deskriptivna_ljudske_ocjene.csv
+│ ├── diplomski_evaluacija_automatske_LLM.xlsx
+│ ├── diplomski_evaluacija_eksperti.xlsx
+│ ├── friedman_auto_metrike.csv
+│ ├── friedman_ljudske_ocjene.csv
+│ ├── graf_heatmap_metrike_R.png
+│ ├── graf_metrike_po_kategorijama_R.png
+│ ├── graf_usporedba_pristupa_R.png
+│ ├── heatmap_spearman_metrike.png
+│ ├── iaa_rezultati.csv
+│ ├── latencija_statistika.csv
+│ ├── llm_vs_eksperti.png
+│ ├── llm_vs_human_kor.csv
+│ ├── metrike_po_kategorijama.csv
+│ ├── podaci_kompletni.csv
+│ ├── posthoc_auto_metrike.csv
+│ ├── posthoc_ljudske_ocjene.csv
+│ ├── skripta_1_eksperti.R
+│ ├── skripta_2_metrike_llm.R
+│ ├── spearman_metrike_vs_ocjene.csv
+│ └── usporedba_pristupa_ukupno.csv
+└── LICENSE
 ```
 
 ---

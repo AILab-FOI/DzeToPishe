@@ -1,0 +1,4 @@
+"metrika","Vanilla","RAG","GraphRAG","delta_RAG_vs_Vanilla","delta_GraphRAG_vs_Vanilla"
+"ROUGE-L",0.167,0.3473,0.3433,0.1803,0.1763
+"BERTScore",0.687,0.7369,0.7387,0.0499,0.0517
+"Cosine Sim.",0.9047,0.9264,0.9282,0.0217,0.0236

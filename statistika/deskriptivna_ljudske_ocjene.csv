@@ -1,0 +1,4 @@
+"konfiguracija","tocnost_mean","tocnost_median","tocnost_sd","korisnost_mean","korisnost_median","korisnost_sd","halucinacije_mean","halucinacije_median","halucinacije_sd"
+"GraphRAG",2.27,2,0.53,2.11,2,0.38,2.03,2,0.26
+"RAG",2.32,2.5,0.6,2.13,2,0.36,2.02,2,0.35
+"Vanilla",1.56,1.5,0.5,1.65,2,0.45,1.69,2,0.42

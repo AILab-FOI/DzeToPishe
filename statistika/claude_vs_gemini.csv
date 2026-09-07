@@ -1,0 +1,4 @@
+"dimenzija","spearman_rho","p_korelacija","wilcoxon_W","p_wilcoxon"
+"tocnost",0.864,0,9.5,1e-04
+"korisnost",0.723,0,320,0.2409
+"halucinacije",0.726,0,21,0

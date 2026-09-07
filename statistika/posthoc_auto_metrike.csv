@@ -1,0 +1,10 @@
+"metrika","par1","par2","V","p","p_bonf","r"
+"rouge","Vanilla","RAG",27,0,0,0.891
+"rouge","Vanilla","GraphRAG",48,1e-04,3e-04,0.806
+"rouge","RAG","GraphRAG",257,0.8677,1,0.036
+"cosine","Vanilla","RAG",32,0,1e-04,0.871
+"cosine","Vanilla","GraphRAG",44,1e-04,2e-04,0.823
+"cosine","RAG","GraphRAG",246,0.9765,1,0.008
+"bertscore","Vanilla","RAG",29,0,1e-04,0.883
+"bertscore","Vanilla","GraphRAG",70,5e-04,0.0015,0.718
+"bertscore","RAG","GraphRAG",285,0.4744,1,0.149

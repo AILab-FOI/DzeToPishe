@@ -1,0 +1,7 @@
+"model","dimenzija","rho","p_vrijednost"
+"claude","tocnost",0.787,0
+"claude","korisnost",0.498,0
+"claude","halucinacije",0.537,0
+"gemini","tocnost",0.729,0
+"gemini","korisnost",0.608,0
+"gemini","halucinacije",0.559,0

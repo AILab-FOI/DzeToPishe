@@ -1,0 +1,7 @@
+"skup","dimenzija","fleiss_kappa","interpretacija","kripp_alpha"
+"svih ocjenjivača (bez filtriranja)","tocnost",0.052,"slabo",0.016
+"svih ocjenjivača (bez filtriranja)","korisnost",0.015,"slabo",-0.015
+"svih ocjenjivača (bez filtriranja)","halucinacije",0.001,"slabo",-0.042
+"očišćenom skupu (bez blago ocjenjujućih)","tocnost",0.108,"slabo",0.065
+"očišćenom skupu (bez blago ocjenjujućih)","korisnost",0.051,"slabo",0.021
+"očišćenom skupu (bez blago ocjenjujućih)","halucinacije",0.035,"slabo",-0.025
