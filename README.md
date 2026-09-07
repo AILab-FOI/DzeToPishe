@@ -8,7 +8,7 @@ Chatbot temeljen na velikim jezičnim modelima (LLM) i RAG arhitekturi koji odgo
 
 ## Opis projekta
 
-**DzeToPishe** (Gdje to piše) je chatbot izrađen u tri verzije. Sve tri verzije koriste model **EuroLLM**. Prvi koristi čisti LLM i nazvan je Vanilla, drugi FAISS RAG, a treći uz pomoć grafovske baze podataka Neo4j GraphRAG. Projekt je razvijen u Google Colabu i evaluiran automatskim metrikama (ROUGE-L, BERTScore, cosine similarity).
+**DzeToPishe** (Gdje to piše) je chatbot izrađen u tri verzije. Sve tri verzije koriste model **EuroLLM**. Prvi koristi čisti LLM i nazvan je Vanilla, drugi FAISS RAG, a treći uz pomoć grafovske baze podataka Neo4j GraphRAG. Projekt je razvijen u Google Colabu i evaluiran automatskim metrikama (ROUGE-L, BERTScore, cosine similarity), ocjenama ljudskih eksperata i ocjenama LLM-ova (LLM-as-a-Judge).
 
 ---
 
